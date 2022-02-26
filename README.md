@@ -1,0 +1,2 @@
+# Man'yōshū
+This project is my semestral work for Data Visualization Techniques ([NDBI042](https://is.cuni.cz/studium/predmety/index.php?tid=&do=predmet&kod=NDBI042)), I've decided to vizualize something with 万葉集.

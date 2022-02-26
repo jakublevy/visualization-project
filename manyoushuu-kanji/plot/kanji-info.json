@@ -1,0 +1,6887 @@
+{
+    "篭": {
+        "jlpt": -1,
+        "freq": 2237,
+        "strokes": 16
+    },
+    "持": {
+        "jlpt": 4,
+        "freq": 119,
+        "strokes": 9
+    },
+    "堀": {
+        "jlpt": 1,
+        "freq": 1285,
+        "strokes": 11
+    },
+    "串": {
+        "jlpt": -1,
+        "freq": 2139,
+        "strokes": 7
+    },
+    "岡": {
+        "jlpt": -1,
+        "freq": 463,
+        "strokes": 8
+    },
+    "菜": {
+        "jlpt": 2,
+        "freq": 1327,
+        "strokes": 11
+    },
+    "摘": {
+        "jlpt": 1,
+        "freq": 564,
+        "strokes": 14
+    },
+    "子": {
+        "jlpt": 5,
+        "freq": 72,
+        "strokes": 3
+    },
+    "家": {
+        "jlpt": 4,
+        "freq": 133,
+        "strokes": 10
+    },
+    "聞": {
+        "jlpt": 5,
+        "freq": 319,
+        "strokes": 14
+    },
+    "告": {
+        "jlpt": 3,
+        "freq": 188,
+        "strokes": 7
+    },
+    "大": {
+        "jlpt": 5,
+        "freq": 7,
+        "strokes": 3
+    },
+    "和": {
+        "jlpt": 3,
+        "freq": 124,
+        "strokes": 8
+    },
+    "国": {
+        "jlpt": 5,
+        "freq": 3,
+        "strokes": 8
+    },
+    "我": {
+        "jlpt": 1,
+        "freq": 829,
+        "strokes": 7
+    },
+    "居": {
+        "jlpt": 3,
+        "freq": 836,
+        "strokes": 8
+    },
+    "座": {
+        "jlpt": 3,
+        "freq": 588,
+        "strokes": 10
+    },
+    "名": {
+        "jlpt": 5,
+        "freq": 177,
+        "strokes": 6
+    },
+    "群": {
+        "jlpt": 2,
+        "freq": 1012,
+        "strokes": 13
+    },
+    "山": {
+        "jlpt": 5,
+        "freq": 131,
+        "strokes": 3
+    },
+    "天": {
+        "jlpt": 5,
+        "freq": 512,
+        "strokes": 4
+    },
+    "香": {
+        "jlpt": 2,
+        "freq": 859,
+        "strokes": 9
+    },
+    "具": {
+        "jlpt": 3,
+        "freq": 629,
+        "strokes": 8
+    },
+    "登": {
+        "jlpt": 3,
+        "freq": 566,
+        "strokes": 12
+    },
+    "立": {
+        "jlpt": 4,
+        "freq": 58,
+        "strokes": 5
+    },
+    "見": {
+        "jlpt": 5,
+        "freq": 22,
+        "strokes": 7
+    },
+    "原": {
+        "jlpt": 3,
+        "freq": 172,
+        "strokes": 10
+    },
+    "煙": {
+        "jlpt": 3,
+        "freq": 1290,
+        "strokes": 13
+    },
+    "海": {
+        "jlpt": 4,
+        "freq": 200,
+        "strokes": 9
+    },
+    "鴎": {
+        "jlpt": -1,
+        "freq": 2187,
+        "strokes": 15
+    },
+    "蜻": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "蛉": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "島": {
+        "jlpt": 2,
+        "freq": 245,
+        "strokes": 10
+    },
+    "君": {
+        "jlpt": 3,
+        "freq": 947,
+        "strokes": 7
+    },
+    "朝": {
+        "jlpt": 4,
+        "freq": 248,
+        "strokes": 12
+    },
+    "取": {
+        "jlpt": 3,
+        "freq": 122,
+        "strokes": 8
+    },
+    "撫": {
+        "jlpt": -1,
+        "freq": 2402,
+        "strokes": 15
+    },
+    "夕": {
+        "jlpt": 4,
+        "freq": 924,
+        "strokes": 3
+    },
+    "寄": {
+        "jlpt": 3,
+        "freq": 673,
+        "strokes": 11
+    },
+    "執": {
+        "jlpt": 1,
+        "freq": 800,
+        "strokes": 11
+    },
+    "梓": {
+        "jlpt": 1,
+        "freq": 2301,
+        "strokes": 11
+    },
+    "弓": {
+        "jlpt": 1,
+        "freq": 1802,
+        "strokes": 3
+    },
+    "中": {
+        "jlpt": 5,
+        "freq": 11,
+        "strokes": 4
+    },
+    "音": {
+        "jlpt": 4,
+        "freq": 491,
+        "strokes": 9
+    },
+    "猟": {
+        "jlpt": 1,
+        "freq": 1851,
+        "strokes": 11
+    },
+    "今": {
+        "jlpt": 5,
+        "freq": 49,
+        "strokes": 4
+    },
+    "智": {
+        "jlpt": 1,
+        "freq": 1002,
+        "strokes": 12
+    },
+    "野": {
+        "jlpt": 4,
+        "freq": 120,
+        "strokes": 11
+    },
+    "馬": {
+        "jlpt": 3,
+        "freq": 639,
+        "strokes": 10
+    },
+    "並": {
+        "jlpt": 2,
+        "freq": 599,
+        "strokes": 8
+    },
+    "踏": {
+        "jlpt": 1,
+        "freq": 723,
+        "strokes": 15
+    },
+    "草": {
+        "jlpt": 3,
+        "freq": 967,
+        "strokes": 9
+    },
+    "深": {
+        "jlpt": 3,
+        "freq": 484,
+        "strokes": 11
+    },
+    "霞": {
+        "jlpt": 1,
+        "freq": 1603,
+        "strokes": 17
+    },
+    "長": {
+        "jlpt": 5,
+        "freq": 12,
+        "strokes": 8
+    },
+    "春": {
+        "jlpt": 4,
+        "freq": 579,
+        "strokes": 9
+    },
+    "日": {
+        "jlpt": 5,
+        "freq": 1,
+        "strokes": 4
+    },
+    "暮": {
+        "jlpt": 3,
+        "freq": 978,
+        "strokes": 14
+    },
+    "知": {
+        "jlpt": 4,
+        "freq": 205,
+        "strokes": 8
+    },
+    "心": {
+        "jlpt": 4,
+        "freq": 157,
+        "strokes": 4
+    },
+    "痛": {
+        "jlpt": 3,
+        "freq": 903,
+        "strokes": 12
+    },
+    "鳥": {
+        "jlpt": 4,
+        "freq": 1043,
+        "strokes": 11
+    },
+    "泣": {
+        "jlpt": 1,
+        "freq": 1380,
+        "strokes": 8
+    },
+    "玉": {
+        "jlpt": 2,
+        "freq": 737,
+        "strokes": 5
+    },
+    "懸": {
+        "jlpt": 1,
+        "freq": 889,
+        "strokes": 20
+    },
+    "遠": {
+        "jlpt": 3,
+        "freq": 887,
+        "strokes": 13
+    },
+    "神": {
+        "jlpt": 3,
+        "freq": 347,
+        "strokes": 9
+    },
+    "行": {
+        "jlpt": 5,
+        "freq": 20,
+        "strokes": 6
+    },
+    "幸": {
+        "jlpt": 3,
+        "freq": 786,
+        "strokes": 8
+    },
+    "越": {
+        "jlpt": 3,
+        "freq": 897,
+        "strokes": 12
+    },
+    "風": {
+        "jlpt": 4,
+        "freq": 558,
+        "strokes": 9
+    },
+    "衣": {
+        "jlpt": 2,
+        "freq": 1214,
+        "strokes": 6
+    },
+    "手": {
+        "jlpt": 4,
+        "freq": 60,
+        "strokes": 4
+    },
+    "返": {
+        "jlpt": 3,
+        "freq": 685,
+        "strokes": 7
+    },
+    "夫": {
+        "jlpt": 3,
+        "freq": 335,
+        "strokes": 4
+    },
+    "思": {
+        "jlpt": 4,
+        "freq": 132,
+        "strokes": 9
+    },
+    "枕": {
+        "jlpt": -1,
+        "freq": 2084,
+        "strokes": 8
+    },
+    "旅": {
+        "jlpt": 4,
+        "freq": 783,
+        "strokes": 10
+    },
+    "遣": {
+        "jlpt": 1,
+        "freq": 664,
+        "strokes": 13
+    },
+    "網": {
+        "jlpt": 1,
+        "freq": 1194,
+        "strokes": 14
+    },
+    "浦": {
+        "jlpt": 1,
+        "freq": 977,
+        "strokes": 10
+    },
+    "人": {
+        "jlpt": 5,
+        "freq": 5,
+        "strokes": 2
+    },
+    "娘": {
+        "jlpt": 3,
+        "freq": 1145,
+        "strokes": 10
+    },
+    "焼": {
+        "jlpt": 2,
+        "freq": 982,
+        "strokes": 12
+    },
+    "塩": {
+        "jlpt": 2,
+        "freq": 1148,
+        "strokes": 13
+    },
+    "下": {
+        "jlpt": 5,
+        "freq": 97,
+        "strokes": 3
+    },
+    "時": {
+        "jlpt": 5,
+        "freq": 16,
+        "strokes": 10
+    },
+    "寝": {
+        "jlpt": 3,
+        "freq": 1034,
+        "strokes": 13
+    },
+    "夜": {
+        "jlpt": 4,
+        "freq": 487,
+        "strokes": 8
+    },
+    "妹": {
+        "jlpt": 4,
+        "freq": 1446,
+        "strokes": 8
+    },
+    "秋": {
+        "jlpt": 4,
+        "freq": 635,
+        "strokes": 9
+    },
+    "刈": {
+        "jlpt": 1,
+        "freq": 1738,
+        "strokes": 4
+    },
+    "葺": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "宿": {
+        "jlpt": 3,
+        "freq": 701,
+        "strokes": 11
+    },
+    "宇": {
+        "jlpt": 2,
+        "freq": 883,
+        "strokes": 6
+    },
+    "治": {
+        "jlpt": 3,
+        "freq": 109,
+        "strokes": 8
+    },
+    "宮": {
+        "jlpt": 1,
+        "freq": 367,
+        "strokes": 10
+    },
+    "処": {
+        "jlpt": 3,
+        "freq": 547,
+        "strokes": 5
+    },
+    "仮": {
+        "jlpt": 1,
+        "freq": 1039,
+        "strokes": 6
+    },
+    "廬": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "熟": {
+        "jlpt": 1,
+        "freq": 1415,
+        "strokes": 15
+    },
+    "田": {
+        "jlpt": 4,
+        "freq": 90,
+        "strokes": 5
+    },
+    "津": {
+        "jlpt": 1,
+        "freq": 1036,
+        "strokes": 9
+    },
+    "船": {
+        "jlpt": 3,
+        "freq": 713,
+        "strokes": 11
+    },
+    "乗": {
+        "jlpt": 3,
+        "freq": 377,
+        "strokes": 9
+    },
+    "月": {
+        "jlpt": 5,
+        "freq": 23,
+        "strokes": 4
+    },
+    "待": {
+        "jlpt": 4,
+        "freq": 391,
+        "strokes": 9
+    },
+    "潮": {
+        "jlpt": 1,
+        "freq": 1231,
+        "strokes": 15
+    },
+    "漕": {
+        "jlpt": -1,
+        "freq": 2354,
+        "strokes": 14
+    },
+    "出": {
+        "jlpt": 5,
+        "freq": 13,
+        "strokes": 5
+    },
+    "円": {
+        "jlpt": 5,
+        "freq": 69,
+        "strokes": 4
+    },
+    "隣": {
+        "jlpt": 1,
+        "freq": 1083,
+        "strokes": 16
+    },
+    "之": {
+        "jlpt": 1,
+        "freq": 1318,
+        "strokes": 3
+    },
+    "相": {
+        "jlpt": 3,
+        "freq": 45,
+        "strokes": 9
+    },
+    "七": {
+        "jlpt": 5,
+        "freq": 115,
+        "strokes": 2
+    },
+    "兄": {
+        "jlpt": 4,
+        "freq": 1219,
+        "strokes": 5
+    },
+    "爪": {
+        "jlpt": -1,
+        "freq": 2025,
+        "strokes": 4
+    },
+    "気": {
+        "jlpt": 5,
+        "freq": 113,
+        "strokes": 6
+    },
+    "背": {
+        "jlpt": 3,
+        "freq": 696,
+        "strokes": 9
+    },
+    "厳": {
+        "jlpt": 1,
+        "freq": 638,
+        "strokes": 17
+    },
+    "橿": {
+        "jlpt": -1,
+        "freq": 2198,
+        "strokes": 17
+    },
+    "本": {
+        "jlpt": 5,
+        "freq": 10,
+        "strokes": 5
+    },
+    "代": {
+        "jlpt": 4,
+        "freq": 66,
+        "strokes": 5
+    },
+    "岩": {
+        "jlpt": 2,
+        "freq": 787,
+        "strokes": 8
+    },
+    "根": {
+        "jlpt": 2,
+        "freq": 620,
+        "strokes": 10
+    },
+    "結": {
+        "jlpt": 1,
+        "freq": 162,
+        "strokes": 12
+    },
+    "作": {
+        "jlpt": 4,
+        "freq": 103,
+        "strokes": 7
+    },
+    "小": {
+        "jlpt": 5,
+        "freq": 114,
+        "strokes": 3
+    },
+    "松": {
+        "jlpt": 1,
+        "freq": 471,
+        "strokes": 8
+    },
+    "欲": {
+        "jlpt": 3,
+        "freq": 902,
+        "strokes": 11
+    },
+    "底": {
+        "jlpt": 2,
+        "freq": 867,
+        "strokes": 8
+    },
+    "阿": {
+        "jlpt": 1,
+        "freq": 1126,
+        "strokes": 8
+    },
+    "胡": {
+        "jlpt": 1,
+        "freq": 1995,
+        "strokes": 9
+    },
+    "拾": {
+        "jlpt": 2,
+        "freq": 1479,
+        "strokes": 9
+    },
+    "或": {
+        "jlpt": -1,
+        "freq": 2378,
+        "strokes": 8
+    },
+    "頭": {
+        "jlpt": 3,
+        "freq": 433,
+        "strokes": 16
+    },
+    "云": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 4
+    },
+    "畝": {
+        "jlpt": 1,
+        "freq": 2327,
+        "strokes": 10
+    },
+    "傍": {
+        "jlpt": 1,
+        "freq": 1660,
+        "strokes": 12
+    },
+    "愛": {
+        "jlpt": 3,
+        "freq": 640,
+        "strokes": 13
+    },
+    "耳": {
+        "jlpt": 3,
+        "freq": 1328,
+        "strokes": 6
+    },
+    "成": {
+        "jlpt": 3,
+        "freq": 116,
+        "strokes": 6
+    },
+    "古": {
+        "jlpt": 4,
+        "freq": 509,
+        "strokes": 5
+    },
+    "妻": {
+        "jlpt": 3,
+        "freq": 691,
+        "strokes": 8
+    },
+    "来": {
+        "jlpt": 5,
+        "freq": 102,
+        "strokes": 7
+    },
+    "印": {
+        "jlpt": 2,
+        "freq": 682,
+        "strokes": 6
+    },
+    "南": {
+        "jlpt": 5,
+        "freq": 341,
+        "strokes": 9
+    },
+    "豊": {
+        "jlpt": 2,
+        "freq": 762,
+        "strokes": 13
+    },
+    "旗": {
+        "jlpt": 1,
+        "freq": 1190,
+        "strokes": 14
+    },
+    "雲": {
+        "jlpt": 2,
+        "freq": 1256,
+        "strokes": 12
+    },
+    "入": {
+        "jlpt": 5,
+        "freq": 56,
+        "strokes": 2
+    },
+    "冬": {
+        "jlpt": 4,
+        "freq": 1090,
+        "strokes": 5
+    },
+    "鳴": {
+        "jlpt": 3,
+        "freq": 1279,
+        "strokes": 14
+    },
+    "咲": {
+        "jlpt": 2,
+        "freq": 1534,
+        "strokes": 9
+    },
+    "花": {
+        "jlpt": 4,
+        "freq": 578,
+        "strokes": 7
+    },
+    "茂": {
+        "jlpt": 1,
+        "freq": 1188,
+        "strokes": 8
+    },
+    "木": {
+        "jlpt": 5,
+        "freq": 317,
+        "strokes": 4
+    },
+    "葉": {
+        "jlpt": 3,
+        "freq": 414,
+        "strokes": 12
+    },
+    "黄": {
+        "jlpt": 2,
+        "freq": 1240,
+        "strokes": 11
+    },
+    "青": {
+        "jlpt": 4,
+        "freq": 589,
+        "strokes": 8
+    },
+    "置": {
+        "jlpt": 3,
+        "freq": 277,
+        "strokes": 13
+    },
+    "嘆": {
+        "jlpt": 1,
+        "freq": 1584,
+        "strokes": 13
+    },
+    "恨": {
+        "jlpt": 1,
+        "freq": 1877,
+        "strokes": 9
+    },
+    "吾": {
+        "jlpt": -1,
+        "freq": 1828,
+        "strokes": 7
+    },
+    "味": {
+        "jlpt": 4,
+        "freq": 442,
+        "strokes": 8
+    },
+    "酒": {
+        "jlpt": 3,
+        "freq": 1006,
+        "strokes": 10
+    },
+    "三": {
+        "jlpt": 5,
+        "freq": 14,
+        "strokes": 3
+    },
+    "輪": {
+        "jlpt": 2,
+        "freq": 693,
+        "strokes": 15
+    },
+    "奈": {
+        "jlpt": 1,
+        "freq": 841,
+        "strokes": 8
+    },
+    "良": {
+        "jlpt": 3,
+        "freq": 501,
+        "strokes": 7
+    },
+    "際": {
+        "jlpt": 3,
+        "freq": 183,
+        "strokes": 14
+    },
+    "隠": {
+        "jlpt": 1,
+        "freq": 1089,
+        "strokes": 14
+    },
+    "道": {
+        "jlpt": 4,
+        "freq": 207,
+        "strokes": 12
+    },
+    "隈": {
+        "jlpt": -1,
+        "freq": 2311,
+        "strokes": 12
+    },
+    "積": {
+        "jlpt": 3,
+        "freq": 541,
+        "strokes": 16
+    },
+    "放": {
+        "jlpt": 3,
+        "freq": 288,
+        "strokes": 8
+    },
+    "麻": {
+        "jlpt": 1,
+        "freq": 1142,
+        "strokes": 11
+    },
+    "形": {
+        "jlpt": 3,
+        "freq": 418,
+        "strokes": 7
+    },
+    "林": {
+        "jlpt": 2,
+        "freq": 656,
+        "strokes": 8
+    },
+    "榛": {
+        "jlpt": 1,
+        "freq": 2205,
+        "strokes": 14
+    },
+    "付": {
+        "jlpt": 3,
+        "freq": 322,
+        "strokes": 5
+    },
+    "目": {
+        "jlpt": 4,
+        "freq": 76,
+        "strokes": 5
+    },
+    "紫": {
+        "jlpt": 1,
+        "freq": 1516,
+        "strokes": 12
+    },
+    "標": {
+        "jlpt": 1,
+        "freq": 686,
+        "strokes": 15
+    },
+    "守": {
+        "jlpt": 3,
+        "freq": 457,
+        "strokes": 6
+    },
+    "袖": {
+        "jlpt": -1,
+        "freq": 1960,
+        "strokes": 10
+    },
+    "振": {
+        "jlpt": 1,
+        "freq": 614,
+        "strokes": 10
+    },
+    "憎": {
+        "jlpt": 2,
+        "freq": 1808,
+        "strokes": 14
+    },
+    "故": {
+        "jlpt": 1,
+        "freq": 612,
+        "strokes": 9
+    },
+    "恋": {
+        "jlpt": 2,
+        "freq": 1296,
+        "strokes": 10
+    },
+    "川": {
+        "jlpt": 5,
+        "freq": 181,
+        "strokes": 3
+    },
+    "上": {
+        "jlpt": 5,
+        "freq": 35,
+        "strokes": 3
+    },
+    "生": {
+        "jlpt": 5,
+        "freq": 29,
+        "strokes": 5
+    },
+    "常": {
+        "jlpt": 3,
+        "freq": 293,
+        "strokes": 11
+    },
+    "女": {
+        "jlpt": 5,
+        "freq": 151,
+        "strokes": 3
+    },
+    "打": {
+        "jlpt": 3,
+        "freq": 239,
+        "strokes": 5
+    },
+    "続": {
+        "jlpt": 3,
+        "freq": 141,
+        "strokes": 13
+    },
+    "王": {
+        "jlpt": 3,
+        "freq": 684,
+        "strokes": 4
+    },
+    "伊": {
+        "jlpt": 1,
+        "freq": 703,
+        "strokes": 6
+    },
+    "虞": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "藻": {
+        "jlpt": 1,
+        "freq": 2124,
+        "strokes": 19
+    },
+    "命": {
+        "jlpt": 3,
+        "freq": 465,
+        "strokes": 8
+    },
+    "惜": {
+        "jlpt": 1,
+        "freq": 1641,
+        "strokes": 11
+    },
+    "波": {
+        "jlpt": 2,
+        "freq": 740,
+        "strokes": 8
+    },
+    "濡": {
+        "jlpt": -1,
+        "freq": 2260,
+        "strokes": 17
+    },
+    "食": {
+        "jlpt": 5,
+        "freq": 328,
+        "strokes": 9
+    },
+    "吉": {
+        "jlpt": 1,
+        "freq": 711,
+        "strokes": 6
+    },
+    "嶺": {
+        "jlpt": 1,
+        "freq": 1959,
+        "strokes": 17
+    },
+    "雪": {
+        "jlpt": 3,
+        "freq": 1131,
+        "strokes": 11
+    },
+    "降": {
+        "jlpt": 3,
+        "freq": 596,
+        "strokes": 10
+    },
+    "間": {
+        "jlpt": 5,
+        "freq": 33,
+        "strokes": 12
+    },
+    "無": {
+        "jlpt": -1,
+        "freq": 274,
+        "strokes": 12
+    },
+    "雨": {
+        "jlpt": 5,
+        "freq": 950,
+        "strokes": 8
+    },
+    "淑": {
+        "jlpt": 1,
+        "freq": 1922,
+        "strokes": 11
+    },
+    "言": {
+        "jlpt": 4,
+        "freq": 83,
+        "strokes": 7
+    },
+    "過": {
+        "jlpt": 3,
+        "freq": 285,
+        "strokes": 12
+    },
+    "夏": {
+        "jlpt": 4,
+        "freq": 659,
+        "strokes": 10
+    },
+    "白": {
+        "jlpt": 5,
+        "freq": 483,
+        "strokes": 5
+    },
+    "栲": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "干": {
+        "jlpt": 2,
+        "freq": 1349,
+        "strokes": 3
+    },
+    "御": {
+        "jlpt": 3,
+        "freq": 1087,
+        "strokes": 12
+    },
+    "栂": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "継": {
+        "jlpt": 1,
+        "freq": 743,
+        "strokes": 13
+    },
+    "離": {
+        "jlpt": 1,
+        "freq": 555,
+        "strokes": 19
+    },
+    "鄙": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "石": {
+        "jlpt": 3,
+        "freq": 342,
+        "strokes": 5
+    },
+    "走": {
+        "jlpt": 4,
+        "freq": 626,
+        "strokes": 7
+    },
+    "近": {
+        "jlpt": 4,
+        "freq": 194,
+        "strokes": 7
+    },
+    "江": {
+        "jlpt": 1,
+        "freq": 704,
+        "strokes": 6
+    },
+    "楽": {
+        "jlpt": 4,
+        "freq": 373,
+        "strokes": 13
+    },
+    "浪": {
+        "jlpt": 1,
+        "freq": 1508,
+        "strokes": 10
+    },
+    "皇": {
+        "jlpt": 1,
+        "freq": 721,
+        "strokes": 9
+    },
+    "殿": {
+        "jlpt": 2,
+        "freq": 1199,
+        "strokes": 13
+    },
+    "霧": {
+        "jlpt": 1,
+        "freq": 1747,
+        "strokes": 19
+    },
+    "悲": {
+        "jlpt": 3,
+        "freq": 1014,
+        "strokes": 12
+    },
+    "寂": {
+        "jlpt": 1,
+        "freq": 1599,
+        "strokes": 11
+    },
+    "志": {
+        "jlpt": 1,
+        "freq": 823,
+        "strokes": 7
+    },
+    "賀": {
+        "jlpt": 1,
+        "freq": 1056,
+        "strokes": 12
+    },
+    "辛": {
+        "jlpt": 2,
+        "freq": 1607,
+        "strokes": 7
+    },
+    "崎": {
+        "jlpt": 1,
+        "freq": 533,
+        "strokes": 11
+    },
+    "舟": {
+        "jlpt": 2,
+        "freq": 1786,
+        "strokes": 6
+    },
+    "一": {
+        "jlpt": 5,
+        "freq": 2,
+        "strokes": 1
+    },
+    "比": {
+        "jlpt": 2,
+        "freq": 329,
+        "strokes": 4
+    },
+    "淀": {
+        "jlpt": -1,
+        "freq": 1987,
+        "strokes": 11
+    },
+    "昔": {
+        "jlpt": 3,
+        "freq": 1197,
+        "strokes": 8
+    },
+    "都": {
+        "jlpt": 3,
+        "freq": 123,
+        "strokes": 11
+    },
+    "荒": {
+        "jlpt": 2,
+        "freq": 1099,
+        "strokes": 9
+    },
+    "浜": {
+        "jlpt": 1,
+        "freq": 645,
+        "strokes": 10
+    },
+    "枝": {
+        "jlpt": 2,
+        "freq": 1401,
+        "strokes": 8
+    },
+    "向": {
+        "jlpt": 3,
+        "freq": 182,
+        "strokes": 6
+    },
+    "幾": {
+        "jlpt": 3,
+        "freq": 1725,
+        "strokes": 12
+    },
+    "年": {
+        "jlpt": 5,
+        "freq": 6,
+        "strokes": 6
+    },
+    "経": {
+        "jlpt": 3,
+        "freq": 79,
+        "strokes": 11
+    },
+    "紀": {
+        "jlpt": 1,
+        "freq": 780,
+        "strokes": 9
+    },
+    "路": {
+        "jlpt": 3,
+        "freq": 529,
+        "strokes": 13
+    },
+    "負": {
+        "jlpt": 3,
+        "freq": 443,
+        "strokes": 9
+    },
+    "清": {
+        "jlpt": 2,
+        "freq": 705,
+        "strokes": 11
+    },
+    "河": {
+        "jlpt": 2,
+        "freq": 663,
+        "strokes": 8
+    },
+    "内": {
+        "jlpt": 3,
+        "freq": 44,
+        "strokes": 4
+    },
+    "散": {
+        "jlpt": 3,
+        "freq": 758,
+        "strokes": 12
+    },
+    "辺": {
+        "jlpt": 2,
+        "freq": 428,
+        "strokes": 5
+    },
+    "柱": {
+        "jlpt": 2,
+        "freq": 1119,
+        "strokes": 9
+    },
+    "太": {
+        "jlpt": 3,
+        "freq": 552,
+        "strokes": 4
+    },
+    "敷": {
+        "jlpt": 1,
+        "freq": 1212,
+        "strokes": 15
+    },
+    "渡": {
+        "jlpt": 3,
+        "freq": 446,
+        "strokes": 12
+    },
+    "競": {
+        "jlpt": 2,
+        "freq": 610,
+        "strokes": 20
+    },
+    "絶": {
+        "jlpt": 3,
+        "freq": 784,
+        "strokes": 12
+    },
+    "高": {
+        "jlpt": 5,
+        "freq": 65,
+        "strokes": 10
+    },
+    "水": {
+        "jlpt": 5,
+        "freq": 223,
+        "strokes": 4
+    },
+    "激": {
+        "jlpt": 1,
+        "freq": 560,
+        "strokes": 16
+    },
+    "瀧": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "飽": {
+        "jlpt": 1,
+        "freq": 1780,
+        "strokes": 13
+    },
+    "滑": {
+        "jlpt": 1,
+        "freq": 1238,
+        "strokes": 13
+    },
+    "垣": {
+        "jlpt": 1,
+        "freq": 1539,
+        "strokes": 9
+    },
+    "奉": {
+        "jlpt": 1,
+        "freq": 1624,
+        "strokes": 8
+    },
+    "調": {
+        "jlpt": 3,
+        "freq": 87,
+        "strokes": 15
+    },
+    "仕": {
+        "jlpt": 4,
+        "freq": 439,
+        "strokes": 5
+    },
+    "瀬": {
+        "jlpt": 1,
+        "freq": 1152,
+        "strokes": 19
+    },
+    "鵜": {
+        "jlpt": -1,
+        "freq": 2118,
+        "strokes": 18
+    },
+    "依": {
+        "jlpt": 2,
+        "freq": 906,
+        "strokes": 8
+    },
+    "嗚": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "呼": {
+        "jlpt": 3,
+        "freq": 498,
+        "strokes": 8
+    },
+    "裳": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "裾": {
+        "jlpt": -1,
+        "freq": 2334,
+        "strokes": 13
+    },
+    "満": {
+        "jlpt": 3,
+        "freq": 515,
+        "strokes": 12
+    },
+    "着": {
+        "jlpt": 4,
+        "freq": 376,
+        "strokes": 12
+    },
+    "答": {
+        "jlpt": 4,
+        "freq": 486,
+        "strokes": 12
+    },
+    "騒": {
+        "jlpt": 1,
+        "freq": 1069,
+        "strokes": 18
+    },
+    "廻": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "沖": {
+        "jlpt": 1,
+        "freq": 929,
+        "strokes": 7
+    },
+    "張": {
+        "jlpt": 1,
+        "freq": 403,
+        "strokes": 11
+    },
+    "照": {
+        "jlpt": 2,
+        "freq": 1004,
+        "strokes": 13
+    },
+    "口": {
+        "jlpt": 4,
+        "freq": 284,
+        "strokes": 3
+    },
+    "初": {
+        "jlpt": 3,
+        "freq": 152,
+        "strokes": 7
+    },
+    "真": {
+        "jlpt": 4,
+        "freq": 279,
+        "strokes": 10
+    },
+    "禁": {
+        "jlpt": 2,
+        "freq": 681,
+        "strokes": 13
+    },
+    "樹": {
+        "jlpt": 1,
+        "freq": 988,
+        "strokes": 16
+    },
+    "押": {
+        "jlpt": 3,
+        "freq": 789,
+        "strokes": 8
+    },
+    "坂": {
+        "jlpt": 2,
+        "freq": 865,
+        "strokes": 7
+    },
+    "限": {
+        "jlpt": 3,
+        "freq": 405,
+        "strokes": 9
+    },
+    "去": {
+        "jlpt": 4,
+        "freq": 440,
+        "strokes": 5
+    },
+    "安": {
+        "jlpt": 4,
+        "freq": 144,
+        "strokes": 6
+    },
+    "騎": {
+        "jlpt": 1,
+        "freq": 1696,
+        "strokes": 18
+    },
+    "竹": {
+        "jlpt": 2,
+        "freq": 593,
+        "strokes": 6
+    },
+    "靡": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "東": {
+        "jlpt": 5,
+        "freq": 37,
+        "strokes": 8
+    },
+    "狩": {
+        "jlpt": 1,
+        "freq": 1785,
+        "strokes": 9
+    },
+    "藤": {
+        "jlpt": 1,
+        "freq": 291,
+        "strokes": 18
+    },
+    "地": {
+        "jlpt": 4,
+        "freq": 40,
+        "strokes": 6
+    },
+    "桧": {
+        "jlpt": -1,
+        "freq": 2056,
+        "strokes": 10
+    },
+    "八": {
+        "jlpt": 5,
+        "freq": 92,
+        "strokes": 2
+    },
+    "十": {
+        "jlpt": 5,
+        "freq": 8,
+        "strokes": 2
+    },
+    "浮": {
+        "jlpt": 3,
+        "freq": 776,
+        "strokes": 10
+    },
+    "流": {
+        "jlpt": 3,
+        "freq": 280,
+        "strokes": 10
+    },
+    "民": {
+        "jlpt": 3,
+        "freq": 28,
+        "strokes": 5
+    },
+    "忘": {
+        "jlpt": 3,
+        "freq": 1129,
+        "strokes": 7
+    },
+    "身": {
+        "jlpt": -1,
+        "freq": 320,
+        "strokes": 7
+    },
+    "鴨": {
+        "jlpt": -1,
+        "freq": 1797,
+        "strokes": 16
+    },
+    "門": {
+        "jlpt": 2,
+        "freq": 452,
+        "strokes": 8
+    },
+    "巨": {
+        "jlpt": 2,
+        "freq": 892,
+        "strokes": 5
+    },
+    "勢": {
+        "jlpt": 2,
+        "freq": 260,
+        "strokes": 13
+    },
+    "世": {
+        "jlpt": 4,
+        "freq": 135,
+        "strokes": 5
+    },
+    "図": {
+        "jlpt": 4,
+        "freq": 539,
+        "strokes": 7
+    },
+    "亀": {
+        "jlpt": 1,
+        "freq": 1353,
+        "strokes": 11
+    },
+    "新": {
+        "jlpt": 4,
+        "freq": 51,
+        "strokes": 13
+    },
+    "泉": {
+        "jlpt": 2,
+        "freq": 1086,
+        "strokes": 9
+    },
+    "百": {
+        "jlpt": 5,
+        "freq": 163,
+        "strokes": 6
+    },
+    "足": {
+        "jlpt": 4,
+        "freq": 343,
+        "strokes": 7
+    },
+    "筏": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "采": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "吹": {
+        "jlpt": 3,
+        "freq": 1133,
+        "strokes": 7
+    },
+    "明": {
+        "jlpt": 4,
+        "freq": 67,
+        "strokes": 8
+    },
+    "井": {
+        "jlpt": 1,
+        "freq": 339,
+        "strokes": 4
+    },
+    "始": {
+        "jlpt": 4,
+        "freq": 244,
+        "strokes": 8
+    },
+    "埴": {
+        "jlpt": -1,
+        "freq": 2150,
+        "strokes": 11
+    },
+    "堤": {
+        "jlpt": 1,
+        "freq": 1658,
+        "strokes": 12
+    },
+    "瑞": {
+        "jlpt": 1,
+        "freq": 1873,
+        "strokes": 13
+    },
+    "緯": {
+        "jlpt": 1,
+        "freq": 1430,
+        "strokes": 16
+    },
+    "菅": {
+        "jlpt": -1,
+        "freq": 1562,
+        "strokes": 11
+    },
+    "面": {
+        "jlpt": 3,
+        "freq": 186,
+        "strokes": 9
+    },
+    "蔭": {
+        "jlpt": -1,
+        "freq": 2166,
+        "strokes": 14
+    },
+    "羨": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "椿": {
+        "jlpt": 1,
+        "freq": 1829,
+        "strokes": 13
+    },
+    "土": {
+        "jlpt": 5,
+        "freq": 307,
+        "strokes": 3
+    },
+    "引": {
+        "jlpt": 3,
+        "freq": 218,
+        "strokes": 4
+    },
+    "乱": {
+        "jlpt": 2,
+        "freq": 755,
+        "strokes": 7
+    },
+    "泊": {
+        "jlpt": 2,
+        "freq": 1233,
+        "strokes": 8
+    },
+    "礼": {
+        "jlpt": 3,
+        "freq": 1185,
+        "strokes": 5
+    },
+    "棚": {
+        "jlpt": 1,
+        "freq": 1594,
+        "strokes": 12
+    },
+    "寒": {
+        "jlpt": 3,
+        "freq": 1456,
+        "strokes": 12
+    },
+    "宵": {
+        "jlpt": 1,
+        "freq": 2262,
+        "strokes": 10
+    },
+    "丈": {
+        "jlpt": -1,
+        "freq": 1375,
+        "strokes": 3
+    },
+    "矢": {
+        "jlpt": 1,
+        "freq": 1294,
+        "strokes": 5
+    },
+    "挟": {
+        "jlpt": 2,
+        "freq": 1870,
+        "strokes": 9
+    },
+    "射": {
+        "jlpt": 1,
+        "freq": 937,
+        "strokes": 10
+    },
+    "圓": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "方": {
+        "jlpt": 4,
+        "freq": 46,
+        "strokes": 4
+    },
+    "在": {
+        "jlpt": 3,
+        "freq": 211,
+        "strokes": 6
+    },
+    "対": {
+        "jlpt": 3,
+        "freq": 34,
+        "strokes": 7
+    },
+    "幣": {
+        "jlpt": 1,
+        "freq": 1803,
+        "strokes": 15
+    },
+    "早": {
+        "jlpt": 4,
+        "freq": 402,
+        "strokes": 6
+    },
+    "帰": {
+        "jlpt": 4,
+        "freq": 504,
+        "strokes": 10
+    },
+    "伴": {
+        "jlpt": 1,
+        "freq": 886,
+        "strokes": 7
+    },
+    "葦": {
+        "jlpt": -1,
+        "freq": 2343,
+        "strokes": 13
+    },
+    "羽": {
+        "jlpt": 2,
+        "freq": 748,
+        "strokes": 6
+    },
+    "交": {
+        "jlpt": 3,
+        "freq": 178,
+        "strokes": 6
+    },
+    "霜": {
+        "jlpt": 1,
+        "freq": 2151,
+        "strokes": 17
+    },
+    "住": {
+        "jlpt": 4,
+        "freq": 270,
+        "strokes": 7
+    },
+    "弟": {
+        "jlpt": 4,
+        "freq": 1161,
+        "strokes": 7
+    },
+    "師": {
+        "jlpt": 3,
+        "freq": 563,
+        "strokes": 10
+    },
+    "鶴": {
+        "jlpt": 1,
+        "freq": 1369,
+        "strokes": 21
+    },
+    "死": {
+        "jlpt": 4,
+        "freq": 229,
+        "strokes": 6
+    },
+    "貝": {
+        "jlpt": 2,
+        "freq": 1787,
+        "strokes": 7
+    },
+    "岸": {
+        "jlpt": 2,
+        "freq": 556,
+        "strokes": 8
+    },
+    "象": {
+        "jlpt": 2,
+        "freq": 394,
+        "strokes": 12
+    },
+    "洲": {
+        "jlpt": 1,
+        "freq": 1979,
+        "strokes": 9
+    },
+    "独": {
+        "jlpt": 1,
+        "freq": 365,
+        "strokes": 9
+    },
+    "貸": {
+        "jlpt": 4,
+        "freq": 995,
+        "strokes": 12
+    },
+    "物": {
+        "jlpt": 4,
+        "freq": 215,
+        "strokes": 8
+    },
+    "部": {
+        "jlpt": 3,
+        "freq": 36,
+        "strokes": 11
+    },
+    "臣": {
+        "jlpt": 2,
+        "freq": 1249,
+        "strokes": 7
+    },
+    "盾": {
+        "jlpt": 1,
+        "freq": 1476,
+        "strokes": 9
+    },
+    "賜": {
+        "jlpt": 1,
+        "freq": 2190,
+        "strokes": 15
+    },
+    "飛": {
+        "jlpt": 3,
+        "freq": 580,
+        "strokes": 9
+    },
+    "里": {
+        "jlpt": -1,
+        "freq": 1096,
+        "strokes": 7
+    },
+    "畏": {
+        "jlpt": -1,
+        "freq": 2389,
+        "strokes": 9
+    },
+    "柔": {
+        "jlpt": 2,
+        "freq": 1187,
+        "strokes": 9
+    },
+    "万": {
+        "jlpt": 5,
+        "freq": 375,
+        "strokes": 3
+    },
+    "佐": {
+        "jlpt": 1,
+        "freq": 474,
+        "strokes": 7
+    },
+    "保": {
+        "jlpt": 1,
+        "freq": 146,
+        "strokes": 9
+    },
+    "至": {
+        "jlpt": 1,
+        "freq": 996,
+        "strokes": 6
+    },
+    "穂": {
+        "jlpt": 1,
+        "freq": 1656,
+        "strokes": 15
+    },
+    "床": {
+        "jlpt": 2,
+        "freq": 1175,
+        "strokes": 7
+    },
+    "凝": {
+        "jlpt": 1,
+        "freq": 1712,
+        "strokes": 16
+    },
+    "息": {
+        "jlpt": 3,
+        "freq": 882,
+        "strokes": 10
+    },
+    "通": {
+        "jlpt": 4,
+        "freq": 80,
+        "strokes": 10
+    },
+    "千": {
+        "jlpt": 5,
+        "freq": 195,
+        "strokes": 3
+    },
+    "龍": {
+        "jlpt": -1,
+        "freq": 1734,
+        "strokes": 16
+    },
+    "鹿": {
+        "jlpt": 1,
+        "freq": 957,
+        "strokes": 11
+    },
+    "尋": {
+        "jlpt": 1,
+        "freq": 1398,
+        "strokes": 12
+    },
+    "迎": {
+        "jlpt": 3,
+        "freq": 625,
+        "strokes": 7
+    },
+    "磐": {
+        "jlpt": -1,
+        "freq": 1701,
+        "strokes": 15
+    },
+    "黒": {
+        "jlpt": 4,
+        "freq": 573,
+        "strokes": 11
+    },
+    "髪": {
+        "jlpt": 3,
+        "freq": 1474,
+        "strokes": 14
+    },
+    "益": {
+        "jlpt": 1,
+        "freq": 674,
+        "strokes": 10
+    },
+    "櫛": {
+        "jlpt": -1,
+        "freq": 2256,
+        "strokes": 17
+    },
+    "笥": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "覆": {
+        "jlpt": 1,
+        "freq": 1378,
+        "strokes": 18
+    },
+    "葛": {
+        "jlpt": -1,
+        "freq": 1547,
+        "strokes": 11
+    },
+    "有": {
+        "jlpt": 4,
+        "freq": 282,
+        "strokes": 6
+    },
+    "室": {
+        "jlpt": 4,
+        "freq": 550,
+        "strokes": 9
+    },
+    "戸": {
+        "jlpt": 2,
+        "freq": 575,
+        "strokes": 4
+    },
+    "児": {
+        "jlpt": 2,
+        "freq": 679,
+        "strokes": 7
+    },
+    "得": {
+        "jlpt": 3,
+        "freq": 175,
+        "strokes": 11
+    },
+    "皆": {
+        "jlpt": 3,
+        "freq": 1267,
+        "strokes": 9
+    },
+    "薦": {
+        "jlpt": 1,
+        "freq": 1082,
+        "strokes": 16
+    },
+    "信": {
+        "jlpt": 3,
+        "freq": 208,
+        "strokes": 9
+    },
+    "濃": {
+        "jlpt": 2,
+        "freq": 1200,
+        "strokes": 16
+    },
+    "貴": {
+        "jlpt": 1,
+        "freq": 970,
+        "strokes": 12
+    },
+    "禅": {
+        "jlpt": 1,
+        "freq": 1902,
+        "strokes": 13
+    },
+    "強": {
+        "jlpt": 4,
+        "freq": 112,
+        "strokes": 11
+    },
+    "郎": {
+        "jlpt": 1,
+        "freq": 569,
+        "strokes": 9
+    },
+    "後": {
+        "jlpt": 5,
+        "freq": 26,
+        "strokes": 9
+    },
+    "弦": {
+        "jlpt": 1,
+        "freq": 1773,
+        "strokes": 8
+    },
+    "緒": {
+        "jlpt": 3,
+        "freq": 952,
+        "strokes": 14
+    },
+    "荷": {
+        "jlpt": 2,
+        "freq": 1230,
+        "strokes": 10
+    },
+    "前": {
+        "jlpt": 5,
+        "freq": 27,
+        "strokes": 9
+    },
+    "箱": {
+        "jlpt": 3,
+        "freq": 1357,
+        "strokes": 15
+    },
+    "実": {
+        "jlpt": 3,
+        "freq": 68,
+        "strokes": 8
+    },
+    "誰": {
+        "jlpt": -1,
+        "freq": 1933,
+        "strokes": 15
+    },
+    "更": {
+        "jlpt": 3,
+        "freq": 861,
+        "strokes": 7
+    },
+    "暁": {
+        "jlpt": 1,
+        "freq": 1924,
+        "strokes": 12
+    },
+    "露": {
+        "jlpt": 1,
+        "freq": 928,
+        "strokes": 21
+    },
+    "占": {
+        "jlpt": 2,
+        "freq": 694,
+        "strokes": 5
+    },
+    "彼": {
+        "jlpt": 3,
+        "freq": 648,
+        "strokes": 8
+    },
+    "束": {
+        "jlpt": 3,
+        "freq": 918,
+        "strokes": 7
+    },
+    "公": {
+        "jlpt": 4,
+        "freq": 118,
+        "strokes": 4
+    },
+    "念": {
+        "jlpt": 3,
+        "freq": 390,
+        "strokes": 8
+    },
+    "片": {
+        "jlpt": 2,
+        "freq": 1076,
+        "strokes": 4
+    },
+    "追": {
+        "jlpt": 3,
+        "freq": 411,
+        "strokes": 9
+    },
+    "繁": {
+        "jlpt": 1,
+        "freq": 1198,
+        "strokes": 16
+    },
+    "醜": {
+        "jlpt": 1,
+        "freq": 2074,
+        "strokes": 17
+    },
+    "萩": {
+        "jlpt": 1,
+        "freq": 1544,
+        "strokes": 12
+    },
+    "浅": {
+        "jlpt": 2,
+        "freq": 1253,
+        "strokes": 9
+    },
+    "痩": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "掻": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "沙": {
+        "jlpt": 1,
+        "freq": 1897,
+        "strokes": 7
+    },
+    "弥": {
+        "jlpt": 1,
+        "freq": 1687,
+        "strokes": 8
+    },
+    "橘": {
+        "jlpt": 1,
+        "freq": 2053,
+        "strokes": 16
+    },
+    "士": {
+        "jlpt": 1,
+        "freq": 526,
+        "strokes": 3
+    },
+    "似": {
+        "jlpt": 3,
+        "freq": 923,
+        "strokes": 7
+    },
+    "末": {
+        "jlpt": 3,
+        "freq": 456,
+        "strokes": 5
+    },
+    "給": {
+        "jlpt": 3,
+        "freq": 615,
+        "strokes": 12
+    },
+    "嫗": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "沈": {
+        "jlpt": 2,
+        "freq": 1271,
+        "strokes": 7
+    },
+    "童": {
+        "jlpt": 2,
+        "freq": 1138,
+        "strokes": 12
+    },
+    "忍": {
+        "jlpt": 1,
+        "freq": 1700,
+        "strokes": 7
+    },
+    "丹": {
+        "jlpt": 1,
+        "freq": 1402,
+        "strokes": 4
+    },
+    "角": {
+        "jlpt": 2,
+        "freq": 805,
+        "strokes": 7
+    },
+    "潟": {
+        "jlpt": 1,
+        "freq": 1204,
+        "strokes": 15
+    },
+    "礒": {
+        "jlpt": -1,
+        "freq": 2344,
+        "strokes": 18
+    },
+    "鯨": {
+        "jlpt": 1,
+        "freq": 1486,
+        "strokes": 19
+    },
+    "魚": {
+        "jlpt": 4,
+        "freq": 1208,
+        "strokes": 11
+    },
+    "指": {
+        "jlpt": 3,
+        "freq": 155,
+        "strokes": 9
+    },
+    "笹": {
+        "jlpt": 1,
+        "freq": 1743,
+        "strokes": 11
+    },
+    "別": {
+        "jlpt": 4,
+        "freq": 214,
+        "strokes": 7
+    },
+    "唐": {
+        "jlpt": -1,
+        "freq": 1727,
+        "strokes": 10
+    },
+    "延": {
+        "jlpt": 2,
+        "freq": 747,
+        "strokes": 8
+    },
+    "蔦": {
+        "jlpt": 1,
+        "freq": 2215,
+        "strokes": 14
+    },
+    "肝": {
+        "jlpt": 1,
+        "freq": 1118,
+        "strokes": 7
+    },
+    "屋": {
+        "jlpt": 4,
+        "freq": 616,
+        "strokes": 9
+    },
+    "伝": {
+        "jlpt": 3,
+        "freq": 416,
+        "strokes": 6
+    },
+    "駒": {
+        "jlpt": 1,
+        "freq": 1452,
+        "strokes": 15
+    },
+    "速": {
+        "jlpt": 3,
+        "freq": 576,
+        "strokes": 10
+    },
+    "落": {
+        "jlpt": 3,
+        "freq": 420,
+        "strokes": 12
+    },
+    "萎": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "歌": {
+        "jlpt": 4,
+        "freq": 519,
+        "strokes": 14
+    },
+    "盛": {
+        "jlpt": 1,
+        "freq": 712,
+        "strokes": 11
+    },
+    "飯": {
+        "jlpt": 4,
+        "freq": 1046,
+        "strokes": 12
+    },
+    "椎": {
+        "jlpt": 1,
+        "freq": 1911,
+        "strokes": 12
+    },
+    "解": {
+        "jlpt": 3,
+        "freq": 176,
+        "strokes": 13
+    },
+    "翔": {
+        "jlpt": 1,
+        "freq": 1936,
+        "strokes": 12
+    },
+    "寿": {
+        "jlpt": -1,
+        "freq": 1245,
+        "strokes": 7
+    },
+    "幡": {
+        "jlpt": -1,
+        "freq": 1948,
+        "strokes": 15
+    },
+    "直": {
+        "jlpt": 3,
+        "freq": 246,
+        "strokes": 8
+    },
+    "影": {
+        "jlpt": 1,
+        "freq": 464,
+        "strokes": 15
+    },
+    "堪": {
+        "jlpt": 1,
+        "freq": 1953,
+        "strokes": 12
+    },
+    "巻": {
+        "jlpt": 2,
+        "freq": 944,
+        "strokes": 9
+    },
+    "脱": {
+        "jlpt": 1,
+        "freq": 782,
+        "strokes": 11
+    },
+    "昨": {
+        "jlpt": 3,
+        "freq": 226,
+        "strokes": 9
+    },
+    "夢": {
+        "jlpt": 3,
+        "freq": 943,
+        "strokes": 13
+    },
+    "額": {
+        "jlpt": 2,
+        "freq": 407,
+        "strokes": 18
+    },
+    "舎": {
+        "jlpt": 1,
+        "freq": 1170,
+        "strokes": 8
+    },
+    "櫂": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 18
+    },
+    "撥": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "若": {
+        "jlpt": 3,
+        "freq": 458,
+        "strokes": 8
+    },
+    "陵": {
+        "jlpt": 1,
+        "freq": 1746,
+        "strokes": 11
+    },
+    "科": {
+        "jlpt": 3,
+        "freq": 531,
+        "strokes": 9
+    },
+    "鏡": {
+        "jlpt": 1,
+        "freq": 1506,
+        "strokes": 19
+    },
+    "昼": {
+        "jlpt": 4,
+        "freq": 1115,
+        "strokes": 9
+    },
+    "杉": {
+        "jlpt": 1,
+        "freq": 1095,
+        "strokes": 7
+    },
+    "自": {
+        "jlpt": 4,
+        "freq": 19,
+        "strokes": 6
+    },
+    "共": {
+        "jlpt": 3,
+        "freq": 174,
+        "strokes": 6
+    },
+    "多": {
+        "jlpt": 4,
+        "freq": 139,
+        "strokes": 6
+    },
+    "綿": {
+        "jlpt": 2,
+        "freq": 1495,
+        "strokes": 14
+    },
+    "短": {
+        "jlpt": 2,
+        "freq": 689,
+        "strokes": 12
+    },
+    "汲": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 7
+    },
+    "問": {
+        "jlpt": 4,
+        "freq": 64,
+        "strokes": 11
+    },
+    "岳": {
+        "jlpt": 1,
+        "freq": 1334,
+        "strokes": 8
+    },
+    "火": {
+        "jlpt": 5,
+        "freq": 574,
+        "strokes": 4
+    },
+    "包": {
+        "jlpt": 2,
+        "freq": 954,
+        "strokes": 5
+    },
+    "袋": {
+        "jlpt": 2,
+        "freq": 1125,
+        "strokes": 11
+    },
+    "男": {
+        "jlpt": 5,
+        "freq": 240,
+        "strokes": 7
+    },
+    "北": {
+        "jlpt": 5,
+        "freq": 153,
+        "strokes": 5
+    },
+    "星": {
+        "jlpt": 2,
+        "freq": 844,
+        "strokes": 9
+    },
+    "何": {
+        "jlpt": 5,
+        "freq": 340,
+        "strokes": 7
+    },
+    "二": {
+        "jlpt": 5,
+        "freq": 9,
+        "strokes": 2
+    },
+    "磯": {
+        "jlpt": 1,
+        "freq": 1444,
+        "strokes": 17
+    },
+    "酔": {
+        "jlpt": 1,
+        "freq": 1640,
+        "strokes": 11
+    },
+    "折": {
+        "jlpt": 3,
+        "freq": 962,
+        "strokes": 7
+    },
+    "集": {
+        "jlpt": 4,
+        "freq": 210,
+        "strokes": 12
+    },
+    "分": {
+        "jlpt": -1,
+        "freq": 24,
+        "strokes": 4
+    },
+    "合": {
+        "jlpt": 3,
+        "freq": 41,
+        "strokes": 6
+    },
+    "極": {
+        "jlpt": 2,
+        "freq": 460,
+        "strokes": 12
+    },
+    "重": {
+        "jlpt": 4,
+        "freq": 193,
+        "strokes": 9
+    },
+    "開": {
+        "jlpt": 4,
+        "freq": 59,
+        "strokes": 12
+    },
+    "望": {
+        "jlpt": 3,
+        "freq": 470,
+        "strokes": 11
+    },
+    "四": {
+        "jlpt": 5,
+        "freq": 47,
+        "strokes": 5
+    },
+    "頼": {
+        "jlpt": 3,
+        "freq": 708,
+        "strokes": 16
+    },
+    "仰": {
+        "jlpt": 1,
+        "freq": 1573,
+        "strokes": 6
+    },
+    "数": {
+        "jlpt": 3,
+        "freq": 148,
+        "strokes": 13
+    },
+    "嶋": {
+        "jlpt": -1,
+        "freq": 1633,
+        "strokes": 14
+    },
+    "池": {
+        "jlpt": 2,
+        "freq": 827,
+        "strokes": 6
+    },
+    "潜": {
+        "jlpt": 1,
+        "freq": 1329,
+        "strokes": 15
+    },
+    "外": {
+        "jlpt": 5,
+        "freq": 81,
+        "strokes": 5
+    },
+    "侍": {
+        "jlpt": 1,
+        "freq": 1939,
+        "strokes": 8
+    },
+    "終": {
+        "jlpt": 4,
+        "freq": 256,
+        "strokes": 11
+    },
+    "涙": {
+        "jlpt": 2,
+        "freq": 1381,
+        "strokes": 10
+    },
+    "止": {
+        "jlpt": 4,
+        "freq": 310,
+        "strokes": 4
+    },
+    "棲": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "雁": {
+        "jlpt": -1,
+        "freq": 2192,
+        "strokes": 12
+    },
+    "巣": {
+        "jlpt": 1,
+        "freq": 1588,
+        "strokes": 11
+    },
+    "栄": {
+        "jlpt": 2,
+        "freq": 920,
+        "strokes": 9
+    },
+    "召": {
+        "jlpt": 2,
+        "freq": 1540,
+        "strokes": 5
+    },
+    "参": {
+        "jlpt": 3,
+        "freq": 201,
+        "strokes": 8
+    },
+    "階": {
+        "jlpt": 2,
+        "freq": 513,
+        "strokes": 12
+    },
+    "鎮": {
+        "jlpt": 1,
+        "freq": 1617,
+        "strokes": 18
+    },
+    "陀": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "哭": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "畑": {
+        "jlpt": -1,
+        "freq": 1176,
+        "strokes": 9
+    },
+    "触": {
+        "jlpt": 2,
+        "freq": 904,
+        "strokes": 13
+    },
+    "肌": {
+        "jlpt": 2,
+        "freq": 1559,
+        "strokes": 6
+    },
+    "剣": {
+        "jlpt": 1,
+        "freq": 1305,
+        "strokes": 10
+    },
+    "刀": {
+        "jlpt": 1,
+        "freq": 1794,
+        "strokes": 2
+    },
+    "慰": {
+        "jlpt": 1,
+        "freq": 1158,
+        "strokes": 15
+    },
+    "垂": {
+        "jlpt": 1,
+        "freq": 1720,
+        "strokes": 8
+    },
+    "橋": {
+        "jlpt": 2,
+        "freq": 553,
+        "strokes": 16
+    },
+    "臥": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "宜": {
+        "jlpt": 1,
+        "freq": 1766,
+        "strokes": 8
+    },
+    "遊": {
+        "jlpt": 3,
+        "freq": 941,
+        "strokes": 12
+    },
+    "城": {
+        "jlpt": 2,
+        "freq": 795,
+        "strokes": 9
+    },
+    "定": {
+        "jlpt": 3,
+        "freq": 48,
+        "strokes": 8
+    },
+    "為": {
+        "jlpt": 1,
+        "freq": 831,
+        "strokes": 9
+    },
+    "塞": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "不": {
+        "jlpt": 4,
+        "freq": 101,
+        "strokes": 4
+    },
+    "破": {
+        "jlpt": 3,
+        "freq": 590,
+        "strokes": 10
+    },
+    "超": {
+        "jlpt": 2,
+        "freq": 597,
+        "strokes": 12
+    },
+    "麗": {
+        "jlpt": 1,
+        "freq": 1758,
+        "strokes": 19
+    },
+    "鶏": {
+        "jlpt": 1,
+        "freq": 1901,
+        "strokes": 19
+    },
+    "任": {
+        "jlpt": 3,
+        "freq": 217,
+        "strokes": 6
+    },
+    "佩": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "軍": {
+        "jlpt": 2,
+        "freq": 189,
+        "strokes": 9
+    },
+    "率": {
+        "jlpt": 1,
+        "freq": 383,
+        "strokes": 11
+    },
+    "整": {
+        "jlpt": 1,
+        "freq": 478,
+        "strokes": 16
+    },
+    "鼓": {
+        "jlpt": 1,
+        "freq": 1795,
+        "strokes": 13
+    },
+    "雷": {
+        "jlpt": 1,
+        "freq": 1491,
+        "strokes": 13
+    },
+    "声": {
+        "jlpt": 3,
+        "freq": 388,
+        "strokes": 7
+    },
+    "笛": {
+        "jlpt": 1,
+        "freq": 1928,
+        "strokes": 11
+    },
+    "敵": {
+        "jlpt": 1,
+        "freq": 1205,
+        "strokes": 15
+    },
+    "虎": {
+        "jlpt": 1,
+        "freq": 1653,
+        "strokes": 8
+    },
+    "諸": {
+        "jlpt": 2,
+        "freq": 658,
+        "strokes": 15
+    },
+    "消": {
+        "jlpt": 3,
+        "freq": 345,
+        "strokes": 10
+    },
+    "会": {
+        "jlpt": 4,
+        "freq": 4,
+        "strokes": 6
+    },
+    "斎": {
+        "jlpt": 1,
+        "freq": 1155,
+        "strokes": 11
+    },
+    "闇": {
+        "jlpt": -1,
+        "freq": 1969,
+        "strokes": 17
+    },
+    "申": {
+        "jlpt": 3,
+        "freq": 492,
+        "strokes": 5
+    },
+    "刺": {
+        "jlpt": 2,
+        "freq": 1031,
+        "strokes": 8
+    },
+    "装": {
+        "jlpt": 2,
+        "freq": 657,
+        "strokes": 12
+    },
+    "使": {
+        "jlpt": 4,
+        "freq": 219,
+        "strokes": 8
+    },
+    "獣": {
+        "jlpt": 1,
+        "freq": 1714,
+        "strokes": 16
+    },
+    "伏": {
+        "jlpt": 1,
+        "freq": 1604,
+        "strokes": 6
+    },
+    "鶉": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "尽": {
+        "jlpt": 1,
+        "freq": 1234,
+        "strokes": 6
+    },
+    "済": {
+        "jlpt": 3,
+        "freq": 168,
+        "strokes": 11
+    },
+    "葬": {
+        "jlpt": 1,
+        "freq": 754,
+        "strokes": 12
+    },
+    "沼": {
+        "jlpt": 1,
+        "freq": 1467,
+        "strokes": 8
+    },
+    "沢": {
+        "jlpt": 1,
+        "freq": 296,
+        "strokes": 7
+    },
+    "社": {
+        "jlpt": 4,
+        "freq": 21,
+        "strokes": 7
+    },
+    "祈": {
+        "jlpt": 2,
+        "freq": 1462,
+        "strokes": 8
+    },
+    "猪": {
+        "jlpt": 1,
+        "freq": 1684,
+        "strokes": 11
+    },
+    "養": {
+        "jlpt": 1,
+        "freq": 888,
+        "strokes": 15
+    },
+    "五": {
+        "jlpt": 5,
+        "freq": 31,
+        "strokes": 4
+    },
+    "軽": {
+        "jlpt": 2,
+        "freq": 790,
+        "strokes": 12
+    },
+    "淵": {
+        "jlpt": -1,
+        "freq": 1593,
+        "strokes": 12
+    },
+    "市": {
+        "jlpt": 3,
+        "freq": 42,
+        "strokes": 5
+    },
+    "求": {
+        "jlpt": 3,
+        "freq": 220,
+        "strokes": 7
+    },
+    "槻": {
+        "jlpt": 1,
+        "freq": 2008,
+        "strokes": 15
+    },
+    "領": {
+        "jlpt": 2,
+        "freq": 138,
+        "strokes": 14
+    },
+    "巾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 3
+    },
+    "与": {
+        "jlpt": 3,
+        "freq": 308,
+        "strokes": 3
+    },
+    "脇": {
+        "jlpt": -1,
+        "freq": 1806,
+        "strokes": 10
+    },
+    "衾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "汝": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 6
+    },
+    "灰": {
+        "jlpt": 2,
+        "freq": 1717,
+        "strokes": 6
+    },
+    "縄": {
+        "jlpt": 1,
+        "freq": 1075,
+        "strokes": 15
+    },
+    "失": {
+        "jlpt": 3,
+        "freq": 447,
+        "strokes": 5
+    },
+    "悔": {
+        "jlpt": 1,
+        "freq": 1460,
+        "strokes": 9
+    },
+    "罷": {
+        "jlpt": 1,
+        "freq": 2104,
+        "strokes": 15
+    },
+    "讃": {
+        "jlpt": -1,
+        "freq": 2179,
+        "strokes": 22
+    },
+    "岐": {
+        "jlpt": 1,
+        "freq": 1428,
+        "strokes": 7
+    },
+    "那": {
+        "jlpt": 1,
+        "freq": 1621,
+        "strokes": 7
+    },
+    "珂": {
+        "jlpt": -1,
+        "freq": 2227,
+        "strokes": 9
+    },
+    "港": {
+        "jlpt": 3,
+        "freq": 495,
+        "strokes": 12
+    },
+    "梶": {
+        "jlpt": -1,
+        "freq": 1355,
+        "strokes": 11
+    },
+    "狭": {
+        "jlpt": 1,
+        "freq": 1346,
+        "strokes": 9
+    },
+    "谷": {
+        "jlpt": 2,
+        "freq": 508,
+        "strokes": 7
+    },
+    "姫": {
+        "jlpt": 1,
+        "freq": 1566,
+        "strokes": 10
+    },
+    "難": {
+        "jlpt": 3,
+        "freq": 330,
+        "strokes": 18
+    },
+    "姿": {
+        "jlpt": 1,
+        "freq": 441,
+        "strokes": 9
+    },
+    "苦": {
+        "jlpt": 3,
+        "freq": 623,
+        "strokes": 8
+    },
+    "鉾": {
+        "jlpt": -1,
+        "freq": 2453,
+        "strokes": 14
+    },
+    "留": {
+        "jlpt": 3,
+        "freq": 731,
+        "strokes": 10
+    },
+    "語": {
+        "jlpt": 5,
+        "freq": 301,
+        "strokes": 14
+    },
+    "光": {
+        "jlpt": 3,
+        "freq": 527,
+        "strokes": 6
+    },
+    "笠": {
+        "jlpt": -1,
+        "freq": 1499,
+        "strokes": 11
+    },
+    "久": {
+        "jlpt": 2,
+        "freq": 688,
+        "strokes": 3
+    },
+    "宣": {
+        "jlpt": 1,
+        "freq": 695,
+        "strokes": 9
+    },
+    "詔": {
+        "jlpt": 1,
+        "freq": 2239,
+        "strokes": 12
+    },
+    "拝": {
+        "jlpt": 2,
+        "freq": 1443,
+        "strokes": 8
+    },
+    "蓋": {
+        "jlpt": -1,
+        "freq": 2388,
+        "strokes": 13
+    },
+    "滝": {
+        "jlpt": 1,
+        "freq": 1478,
+        "strokes": 13
+    },
+    "尊": {
+        "jlpt": 2,
+        "freq": 1181,
+        "strokes": 12
+    },
+    "芦": {
+        "jlpt": -1,
+        "freq": 1733,
+        "strokes": 7
+    },
+    "隼": {
+        "jlpt": 1,
+        "freq": 2224,
+        "strokes": 10
+    },
+    "薩": {
+        "jlpt": -1,
+        "freq": 1984,
+        "strokes": 17
+    },
+    "摩": {
+        "jlpt": 1,
+        "freq": 1252,
+        "strokes": 15
+    },
+    "奴": {
+        "jlpt": 1,
+        "freq": 1932,
+        "strokes": 5
+    },
+    "敏": {
+        "jlpt": 1,
+        "freq": 1042,
+        "strokes": 10
+    },
+    "淡": {
+        "jlpt": 1,
+        "freq": 1436,
+        "strokes": 11
+    },
+    "紐": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "鱸": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 27
+    },
+    "釣": {
+        "jlpt": 1,
+        "freq": 1542,
+        "strokes": 11
+    },
+    "稲": {
+        "jlpt": 1,
+        "freq": 1038,
+        "strokes": 14
+    },
+    "加": {
+        "jlpt": 3,
+        "freq": 130,
+        "strokes": 5
+    },
+    "庭": {
+        "jlpt": 3,
+        "freq": 816,
+        "strokes": 10
+    },
+    "桜": {
+        "jlpt": 1,
+        "freq": 1237,
+        "strokes": 10
+    },
+    "暗": {
+        "jlpt": 3,
+        "freq": 1040,
+        "strokes": 13
+    },
+    "退": {
+        "jlpt": 3,
+        "freq": 424,
+        "strokes": 9
+    },
+    "楫": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "棹": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "鴛": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "鴦": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "苔": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "赤": {
+        "jlpt": 4,
+        "freq": 584,
+        "strokes": 7
+    },
+    "縫": {
+        "jlpt": 1,
+        "freq": 1723,
+        "strokes": 16
+    },
+    "未": {
+        "jlpt": 3,
+        "freq": 650,
+        "strokes": 5
+    },
+    "詳": {
+        "jlpt": 1,
+        "freq": 1178,
+        "strokes": 13
+    },
+    "勝": {
+        "jlpt": 3,
+        "freq": 185,
+        "strokes": 12
+    },
+    "暇": {
+        "jlpt": 1,
+        "freq": 1386,
+        "strokes": 13
+    },
+    "次": {
+        "jlpt": 3,
+        "freq": 222,
+        "strokes": 6
+    },
+    "示": {
+        "jlpt": 3,
+        "freq": 237,
+        "strokes": 5
+    },
+    "余": {
+        "jlpt": 3,
+        "freq": 680,
+        "strokes": 7
+    },
+    "武": {
+        "jlpt": 2,
+        "freq": 387,
+        "strokes": 8
+    },
+    "庫": {
+        "jlpt": 2,
+        "freq": 852,
+        "strokes": 10
+    },
+    "駿": {
+        "jlpt": 1,
+        "freq": 1817,
+        "strokes": 17
+    },
+    "倍": {
+        "jlpt": 2,
+        "freq": 714,
+        "strokes": 10
+    },
+    "替": {
+        "jlpt": 2,
+        "freq": 979,
+        "strokes": 12
+    },
+    "倉": {
+        "jlpt": 1,
+        "freq": 1114,
+        "strokes": 10
+    },
+    "乏": {
+        "jlpt": 1,
+        "freq": 1646,
+        "strokes": 4
+    },
+    "探": {
+        "jlpt": 3,
+        "freq": 930,
+        "strokes": 11
+    },
+    "奥": {
+        "jlpt": 2,
+        "freq": 1018,
+        "strokes": 12
+    },
+    "色": {
+        "jlpt": 4,
+        "freq": 621,
+        "strokes": 6
+    },
+    "廷": {
+        "jlpt": 1,
+        "freq": 1439,
+        "strokes": 7
+    },
+    "旧": {
+        "jlpt": 2,
+        "freq": 549,
+        "strokes": 5
+    },
+    "薄": {
+        "jlpt": 2,
+        "freq": 1009,
+        "strokes": 16
+    },
+    "米": {
+        "jlpt": 3,
+        "freq": 61,
+        "strokes": 6
+    },
+    "植": {
+        "jlpt": 2,
+        "freq": 699,
+        "strokes": 12
+    },
+    "能": {
+        "jlpt": 3,
+        "freq": 273,
+        "strokes": 10
+    },
+    "変": {
+        "jlpt": 3,
+        "freq": 238,
+        "strokes": 9
+    },
+    "富": {
+        "jlpt": 3,
+        "freq": 644,
+        "strokes": 12
+    },
+    "甲": {
+        "jlpt": 1,
+        "freq": 1073,
+        "strokes": 5
+    },
+    "斐": {
+        "jlpt": 1,
+        "freq": 2103,
+        "strokes": 12
+    },
+    "宝": {
+        "jlpt": 2,
+        "freq": 1139,
+        "strokes": 8
+    },
+    "六": {
+        "jlpt": 5,
+        "freq": 93,
+        "strokes": 4
+    },
+    "湯": {
+        "jlpt": 2,
+        "freq": 1356,
+        "strokes": 12
+    },
+    "予": {
+        "jlpt": 3,
+        "freq": 180,
+        "strokes": 4
+    },
+    "辞": {
+        "jlpt": 3,
+        "freq": 633,
+        "strokes": 13
+    },
+    "燭": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "茅": {
+        "jlpt": 1,
+        "freq": 1895,
+        "strokes": 8
+    },
+    "筑": {
+        "jlpt": -1,
+        "freq": 1530,
+        "strokes": 12
+    },
+    "暖": {
+        "jlpt": 1,
+        "freq": 1371,
+        "strokes": 13
+    },
+    "母": {
+        "jlpt": 5,
+        "freq": 570,
+        "strokes": 5
+    },
+    "験": {
+        "jlpt": 4,
+        "freq": 410,
+        "strokes": 18
+    },
+    "杯": {
+        "jlpt": 3,
+        "freq": 1235,
+        "strokes": 8
+    },
+    "濁": {
+        "jlpt": 1,
+        "freq": 1883,
+        "strokes": 16
+    },
+    "飲": {
+        "jlpt": 4,
+        "freq": 969,
+        "strokes": 12
+    },
+    "聖": {
+        "jlpt": 1,
+        "freq": 1165,
+        "strokes": 13
+    },
+    "賢": {
+        "jlpt": 2,
+        "freq": 1159,
+        "strokes": 16
+    },
+    "壷": {
+        "jlpt": -1,
+        "freq": 2197,
+        "strokes": 11
+    },
+    "染": {
+        "jlpt": 1,
+        "freq": 837,
+        "strokes": 9
+    },
+    "猿": {
+        "jlpt": 1,
+        "freq": 1772,
+        "strokes": 13
+    },
+    "価": {
+        "jlpt": 1,
+        "freq": 250,
+        "strokes": 8
+    },
+    "虫": {
+        "jlpt": 2,
+        "freq": 1351,
+        "strokes": 6
+    },
+    "者": {
+        "jlpt": 4,
+        "freq": 38,
+        "strokes": 8
+    },
+    "遂": {
+        "jlpt": 1,
+        "freq": 1423,
+        "strokes": 12
+    },
+    "黙": {
+        "jlpt": 1,
+        "freq": 1338,
+        "strokes": 15
+    },
+    "跡": {
+        "jlpt": 2,
+        "freq": 953,
+        "strokes": 13
+    },
+    "少": {
+        "jlpt": 4,
+        "freq": 287,
+        "strokes": 4
+    },
+    "彦": {
+        "jlpt": 1,
+        "freq": 1117,
+        "strokes": 9
+    },
+    "句": {
+        "jlpt": 1,
+        "freq": 1244,
+        "strokes": 5
+    },
+    "粟": {
+        "jlpt": -1,
+        "freq": 2146,
+        "strokes": 12
+    },
+    "農": {
+        "jlpt": 2,
+        "freq": 385,
+        "strokes": 13
+    },
+    "親": {
+        "jlpt": 4,
+        "freq": 406,
+        "strokes": 16
+    },
+    "起": {
+        "jlpt": 4,
+        "freq": 374,
+        "strokes": 10
+    },
+    "貫": {
+        "jlpt": 1,
+        "freq": 1156,
+        "strokes": 11
+    },
+    "壮": {
+        "jlpt": 1,
+        "freq": 1657,
+        "strokes": 6
+    },
+    "曇": {
+        "jlpt": 2,
+        "freq": 1899,
+        "strokes": 16
+    },
+    "意": {
+        "jlpt": 4,
+        "freq": 99,
+        "strokes": 13
+    },
+    "渚": {
+        "jlpt": 1,
+        "freq": 2226,
+        "strokes": 11
+    },
+    "掘": {
+        "jlpt": 2,
+        "freq": 1257,
+        "strokes": 11
+    },
+    "膝": {
+        "jlpt": -1,
+        "freq": 2320,
+        "strokes": 15
+    },
+    "襲": {
+        "jlpt": 1,
+        "freq": 1130,
+        "strokes": 22
+    },
+    "畳": {
+        "jlpt": 2,
+        "freq": 1665,
+        "strokes": 12
+    },
+    "進": {
+        "jlpt": 3,
+        "freq": 142,
+        "strokes": 11
+    },
+    "好": {
+        "jlpt": 3,
+        "freq": 423,
+        "strokes": 6
+    },
+    "韓": {
+        "jlpt": -1,
+        "freq": 445,
+        "strokes": 18
+    },
+    "藍": {
+        "jlpt": 1,
+        "freq": 2043,
+        "strokes": 18
+    },
+    "蒔": {
+        "jlpt": 1,
+        "freq": 2368,
+        "strokes": 13
+    },
+    "枯": {
+        "jlpt": 2,
+        "freq": 1749,
+        "strokes": 9
+    },
+    "懲": {
+        "jlpt": 1,
+        "freq": 1303,
+        "strokes": 18
+    },
+    "美": {
+        "jlpt": 3,
+        "freq": 462,
+        "strokes": 9
+    },
+    "梁": {
+        "jlpt": -1,
+        "freq": 2017,
+        "strokes": 11
+    },
+    "静": {
+        "jlpt": 3,
+        "freq": 764,
+        "strokes": 14
+    },
+    "総": {
+        "jlpt": 2,
+        "freq": 129,
+        "strokes": 14
+    },
+    "柄": {
+        "jlpt": 1,
+        "freq": 1140,
+        "strokes": 9
+    },
+    "伐": {
+        "jlpt": 1,
+        "freq": 1816,
+        "strokes": 6
+    },
+    "梅": {
+        "jlpt": 1,
+        "freq": 1232,
+        "strokes": 10
+    },
+    "端": {
+        "jlpt": 1,
+        "freq": 960,
+        "strokes": 14
+    },
+    "託": {
+        "jlpt": 1,
+        "freq": 1021,
+        "strokes": 10
+    },
+    "陸": {
+        "jlpt": 2,
+        "freq": 736,
+        "strokes": 11
+    },
+    "事": {
+        "jlpt": 4,
+        "freq": 18,
+        "strokes": 8
+    },
+    "恥": {
+        "jlpt": 3,
+        "freq": 1575,
+        "strokes": 10
+    },
+    "祭": {
+        "jlpt": 2,
+        "freq": 1124,
+        "strokes": 11
+    },
+    "葱": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "苗": {
+        "jlpt": 1,
+        "freq": 1713,
+        "strokes": 8
+    },
+    "須": {
+        "jlpt": 1,
+        "freq": 1339,
+        "strokes": 12
+    },
+    "磨": {
+        "jlpt": 2,
+        "freq": 1608,
+        "strokes": 16
+    },
+    "魂": {
+        "jlpt": 1,
+        "freq": 1748,
+        "strokes": 14
+    },
+    "力": {
+        "jlpt": 4,
+        "freq": 62,
+        "strokes": 2
+    },
+    "弱": {
+        "jlpt": 2,
+        "freq": 958,
+        "strokes": 10
+    },
+    "杖": {
+        "jlpt": -1,
+        "freq": 2387,
+        "strokes": 7
+    },
+    "節": {
+        "jlpt": 1,
+        "freq": 934,
+        "strokes": 13
+    },
+    "巌": {
+        "jlpt": 1,
+        "freq": 1986,
+        "strokes": 20
+    },
+    "布": {
+        "jlpt": 2,
+        "freq": 877,
+        "strokes": 5
+    },
+    "九": {
+        "jlpt": 5,
+        "freq": 55,
+        "strokes": 2
+    },
+    "歩": {
+        "jlpt": 4,
+        "freq": 554,
+        "strokes": 8
+    },
+    "倭": {
+        "jlpt": 1,
+        "freq": 2098,
+        "strokes": 10
+    },
+    "文": {
+        "jlpt": 4,
+        "freq": 190,
+        "strokes": 4
+    },
+    "帯": {
+        "jlpt": 2,
+        "freq": 746,
+        "strokes": 10
+    },
+    "飾": {
+        "jlpt": 1,
+        "freq": 1193,
+        "strokes": 13
+    },
+    "空": {
+        "jlpt": 4,
+        "freq": 304,
+        "strokes": 8
+    },
+    "欠": {
+        "jlpt": 3,
+        "freq": 860,
+        "strokes": 4
+    },
+    "祖": {
+        "jlpt": 3,
+        "freq": 1226,
+        "strokes": 9
+    },
+    "父": {
+        "jlpt": 5,
+        "freq": 646,
+        "strokes": 4
+    },
+    "平": {
+        "jlpt": 3,
+        "freq": 128,
+        "strokes": 5
+    },
+    "祷": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "咽": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "羅": {
+        "jlpt": 1,
+        "freq": 1831,
+        "strokes": 19
+    },
+    "族": {
+        "jlpt": 4,
+        "freq": 393,
+        "strokes": 11
+    },
+    "免": {
+        "jlpt": 1,
+        "freq": 1080,
+        "strokes": 8
+    },
+    "借": {
+        "jlpt": 4,
+        "freq": 932,
+        "strokes": 10
+    },
+    "胸": {
+        "jlpt": 2,
+        "freq": 1144,
+        "strokes": 10
+    },
+    "関": {
+        "jlpt": 3,
+        "freq": 70,
+        "strokes": 14
+    },
+    "迩": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "鮎": {
+        "jlpt": 1,
+        "freq": 2201,
+        "strokes": 16
+    },
+    "異": {
+        "jlpt": 1,
+        "freq": 631,
+        "strokes": 11
+    },
+    "輿": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "杣": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 7
+    },
+    "抑": {
+        "jlpt": 1,
+        "freq": 834,
+        "strokes": 7
+    },
+    "活": {
+        "jlpt": 3,
+        "freq": 171,
+        "strokes": 9
+    },
+    "腰": {
+        "jlpt": 2,
+        "freq": 1306,
+        "strokes": 13
+    },
+    "蝿": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "笑": {
+        "jlpt": 3,
+        "freq": 913,
+        "strokes": 10
+    },
+    "舞": {
+        "jlpt": 3,
+        "freq": 655,
+        "strokes": 15
+    },
+    "果": {
+        "jlpt": 3,
+        "freq": 258,
+        "strokes": 8
+    },
+    "抱": {
+        "jlpt": 3,
+        "freq": 871,
+        "strokes": 8
+    },
+    "簾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "動": {
+        "jlpt": 4,
+        "freq": 73,
+        "strokes": 11
+    },
+    "忌": {
+        "jlpt": 1,
+        "freq": 1882,
+        "strokes": 7
+    },
+    "寸": {
+        "jlpt": 1,
+        "freq": 1669,
+        "strokes": 3
+    },
+    "櫟": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "熊": {
+        "jlpt": 1,
+        "freq": 1105,
+        "strokes": 14
+    },
+    "荻": {
+        "jlpt": -1,
+        "freq": 1630,
+        "strokes": 10
+    },
+    "牡": {
+        "jlpt": -1,
+        "freq": 2155,
+        "strokes": 7
+    },
+    "柴": {
+        "jlpt": -1,
+        "freq": 1638,
+        "strokes": 10
+    },
+    "針": {
+        "jlpt": 2,
+        "freq": 505,
+        "strokes": 10
+    },
+    "糸": {
+        "jlpt": 2,
+        "freq": 1488,
+        "strokes": 6
+    },
+    "障": {
+        "jlpt": 1,
+        "freq": 742,
+        "strokes": 14
+    },
+    "曝": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "広": {
+        "jlpt": 4,
+        "freq": 263,
+        "strokes": 5
+    },
+    "柵": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "疑": {
+        "jlpt": 3,
+        "freq": 283,
+        "strokes": 14
+    },
+    "己": {
+        "jlpt": 1,
+        "freq": 1098,
+        "strokes": 3
+    },
+    "願": {
+        "jlpt": 3,
+        "freq": 894,
+        "strokes": 19
+    },
+    "助": {
+        "jlpt": 3,
+        "freq": 397,
+        "strokes": 7
+    },
+    "備": {
+        "jlpt": 3,
+        "freq": 356,
+        "strokes": 12
+    },
+    "病": {
+        "jlpt": 4,
+        "freq": 384,
+        "strokes": 10
+    },
+    "簀": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "友": {
+        "jlpt": 5,
+        "freq": 622,
+        "strokes": 4
+    },
+    "老": {
+        "jlpt": 3,
+        "freq": 803,
+        "strokes": 6
+    },
+    "杜": {
+        "jlpt": 1,
+        "freq": 2062,
+        "strokes": 7
+    },
+    "眉": {
+        "jlpt": 1,
+        "freq": 2177,
+        "strokes": 9
+    },
+    "周": {
+        "jlpt": 2,
+        "freq": 562,
+        "strokes": 8
+    },
+    "防": {
+        "jlpt": 2,
+        "freq": 331,
+        "strokes": 7
+    },
+    "発": {
+        "jlpt": 4,
+        "freq": 32,
+        "strokes": 9
+    },
+    "響": {
+        "jlpt": 1,
+        "freq": 502,
+        "strokes": 20
+    },
+    "全": {
+        "jlpt": 3,
+        "freq": 75,
+        "strokes": 6
+    },
+    "増": {
+        "jlpt": 3,
+        "freq": 231,
+        "strokes": 14
+    },
+    "砂": {
+        "jlpt": 2,
+        "freq": 1146,
+        "strokes": 9
+    },
+    "隔": {
+        "jlpt": 1,
+        "freq": 1382,
+        "strokes": 13
+    },
+    "理": {
+        "jlpt": 4,
+        "freq": 86,
+        "strokes": 11
+    },
+    "鐘": {
+        "jlpt": 1,
+        "freq": 1681,
+        "strokes": 20
+    },
+    "寺": {
+        "jlpt": 2,
+        "freq": 879,
+        "strokes": 6
+    },
+    "餓": {
+        "jlpt": 1,
+        "freq": 1754,
+        "strokes": 15
+    },
+    "鬼": {
+        "jlpt": 1,
+        "freq": 1557,
+        "strokes": 10
+    },
+    "郷": {
+        "jlpt": 1,
+        "freq": 1077,
+        "strokes": 11
+    },
+    "漁": {
+        "jlpt": 2,
+        "freq": 1094,
+        "strokes": 14
+    },
+    "鮒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "尾": {
+        "jlpt": 1,
+        "freq": 875,
+        "strokes": 7
+    },
+    "楓": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "頃": {
+        "jlpt": -1,
+        "freq": 2015,
+        "strokes": 11
+    },
+    "授": {
+        "jlpt": 1,
+        "freq": 535,
+        "strokes": 11
+    },
+    "左": {
+        "jlpt": 5,
+        "freq": 630,
+        "strokes": 5
+    },
+    "読": {
+        "jlpt": 5,
+        "freq": 618,
+        "strokes": 14
+    },
+    "兼": {
+        "jlpt": 1,
+        "freq": 1164,
+        "strokes": 10
+    },
+    "紅": {
+        "jlpt": 2,
+        "freq": 1299,
+        "strokes": 9
+    },
+    "鞘": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "崩": {
+        "jlpt": 1,
+        "freq": 778,
+        "strokes": 11
+    },
+    "横": {
+        "jlpt": 3,
+        "freq": 480,
+        "strokes": 15
+    },
+    "車": {
+        "jlpt": 5,
+        "freq": 333,
+        "strokes": 7
+    },
+    "注": {
+        "jlpt": 4,
+        "freq": 497,
+        "strokes": 8
+    },
+    "祝": {
+        "jlpt": 2,
+        "freq": 1184,
+        "strokes": 9
+    },
+    "罪": {
+        "jlpt": 3,
+        "freq": 732,
+        "strokes": 13
+    },
+    "燃": {
+        "jlpt": 2,
+        "freq": 948,
+        "strokes": 16
+    },
+    "砕": {
+        "jlpt": 1,
+        "freq": 1579,
+        "strokes": 9
+    },
+    "金": {
+        "jlpt": 5,
+        "freq": 53,
+        "strokes": 8
+    },
+    "姉": {
+        "jlpt": 4,
+        "freq": 1473,
+        "strokes": 8
+    },
+    "副": {
+        "jlpt": 2,
+        "freq": 360,
+        "strokes": 11
+    },
+    "首": {
+        "jlpt": 3,
+        "freq": 98,
+        "strokes": 9
+    },
+    "設": {
+        "jlpt": 2,
+        "freq": 145,
+        "strokes": 11
+    },
+    "同": {
+        "jlpt": 4,
+        "freq": 15,
+        "strokes": 6
+    },
+    "断": {
+        "jlpt": 3,
+        "freq": 338,
+        "strokes": 11
+    },
+    "計": {
+        "jlpt": 4,
+        "freq": 228,
+        "strokes": 9
+    },
+    "葎": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "汚": {
+        "jlpt": 2,
+        "freq": 908,
+        "strokes": 6
+    },
+    "沫": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "舌": {
+        "jlpt": 1,
+        "freq": 1830,
+        "strokes": 6
+    },
+    "偽": {
+        "jlpt": 1,
+        "freq": 1171,
+        "strokes": 11
+    },
+    "練": {
+        "jlpt": 2,
+        "freq": 788,
+        "strokes": 14
+    },
+    "籬": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 25
+    },
+    "板": {
+        "jlpt": 2,
+        "freq": 926,
+        "strokes": 8
+    },
+    "先": {
+        "jlpt": 5,
+        "freq": 173,
+        "strokes": 6
+    },
+    "卷": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "休": {
+        "jlpt": 5,
+        "freq": 642,
+        "strokes": 6
+    },
+    "沓": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "業": {
+        "jlpt": 4,
+        "freq": 43,
+        "strokes": 13
+    },
+    "瓜": {
+        "jlpt": -1,
+        "freq": 2459,
+        "strokes": 6
+    },
+    "栗": {
+        "jlpt": 1,
+        "freq": 1550,
+        "strokes": 10
+    },
+    "銀": {
+        "jlpt": 4,
+        "freq": 395,
+        "strokes": 14
+    },
+    "種": {
+        "jlpt": 3,
+        "freq": 461,
+        "strokes": 14
+    },
+    "迫": {
+        "jlpt": 1,
+        "freq": 773,
+        "strokes": 8
+    },
+    "妙": {
+        "jlpt": 1,
+        "freq": 1122,
+        "strokes": 7
+    },
+    "蜷": {
+        "jlpt": -1,
+        "freq": 2284,
+        "strokes": 14
+    },
+    "腸": {
+        "jlpt": 1,
+        "freq": 1807,
+        "strokes": 13
+    },
+    "皺": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "移": {
+        "jlpt": 2,
+        "freq": 448,
+        "strokes": 11
+    },
+    "握": {
+        "jlpt": 1,
+        "freq": 1003,
+        "strokes": 12
+    },
+    "鞍": {
+        "jlpt": -1,
+        "freq": 2214,
+        "strokes": 15
+    },
+    "辿": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 6
+    },
+    "厭": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "馴": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "琴": {
+        "jlpt": 1,
+        "freq": 1591,
+        "strokes": 12
+    },
+    "奇": {
+        "jlpt": 1,
+        "freq": 1367,
+        "strokes": 8
+    },
+    "正": {
+        "jlpt": 4,
+        "freq": 143,
+        "strokes": 5
+    },
+    "招": {
+        "jlpt": 3,
+        "freq": 840,
+        "strokes": 8
+    },
+    "貳": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "卿": {
+        "jlpt": -1,
+        "freq": 2138,
+        "strokes": 12
+    },
+    "園": {
+        "jlpt": 3,
+        "freq": 628,
+        "strokes": 13
+    },
+    "柳": {
+        "jlpt": 1,
+        "freq": 1169,
+        "strokes": 9
+    },
+    "主": {
+        "jlpt": 4,
+        "freq": 95,
+        "strokes": 5
+    },
+    "氏": {
+        "jlpt": 1,
+        "freq": 84,
+        "strokes": 4
+    },
+    "鴬": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "村": {
+        "jlpt": 2,
+        "freq": 253,
+        "strokes": 7
+    },
+    "典": {
+        "jlpt": 1,
+        "freq": 1055,
+        "strokes": 8
+    },
+    "史": {
+        "jlpt": 2,
+        "freq": 511,
+        "strokes": 5
+    },
+    "呂": {
+        "jlpt": 1,
+        "freq": 2055,
+        "strokes": 7
+    },
+    "判": {
+        "jlpt": 3,
+        "freq": 197,
+        "strokes": 7
+    },
+    "福": {
+        "jlpt": 3,
+        "freq": 467,
+        "strokes": 13
+    },
+    "介": {
+        "jlpt": 2,
+        "freq": 617,
+        "strokes": 4
+    },
+    "壹": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "司": {
+        "jlpt": 1,
+        "freq": 759,
+        "strokes": 5
+    },
+    "令": {
+        "jlpt": 2,
+        "freq": 804,
+        "strokes": 5
+    },
+    "肥": {
+        "jlpt": 1,
+        "freq": 1469,
+        "strokes": 8
+    },
+    "義": {
+        "jlpt": 1,
+        "freq": 415,
+        "strokes": 13
+    },
+    "陰": {
+        "jlpt": 1,
+        "freq": 1393,
+        "strokes": 11
+    },
+    "陽": {
+        "jlpt": 3,
+        "freq": 1071,
+        "strokes": 12
+    },
+    "法": {
+        "jlpt": 3,
+        "freq": 100,
+        "strokes": 8
+    },
+    "隅": {
+        "jlpt": 2,
+        "freq": 1601,
+        "strokes": 12
+    },
+    "榎": {
+        "jlpt": -1,
+        "freq": 1945,
+        "strokes": 14
+    },
+    "鉢": {
+        "jlpt": 1,
+        "freq": 1890,
+        "strokes": 13
+    },
+    "對": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "國": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "堅": {
+        "jlpt": 1,
+        "freq": 1049,
+        "strokes": 12
+    },
+    "薬": {
+        "jlpt": 3,
+        "freq": 702,
+        "strokes": 16
+    },
+    "残": {
+        "jlpt": 3,
+        "freq": 380,
+        "strokes": 10
+    },
+    "奪": {
+        "jlpt": 1,
+        "freq": 974,
+        "strokes": 14
+    },
+    "県": {
+        "jlpt": 2,
+        "freq": 140,
+        "strokes": 9
+    },
+    "用": {
+        "jlpt": 4,
+        "freq": 107,
+        "strokes": 5
+    },
+    "丘": {
+        "jlpt": 1,
+        "freq": 1405,
+        "strokes": 5
+    },
+    "送": {
+        "jlpt": 4,
+        "freq": 311,
+        "strokes": 9
+    },
+    "奏": {
+        "jlpt": 1,
+        "freq": 1067,
+        "strokes": 9
+    },
+    "霊": {
+        "jlpt": 1,
+        "freq": 1458,
+        "strokes": 15
+    },
+    "他": {
+        "jlpt": 3,
+        "freq": 543,
+        "strokes": 5
+    },
+    "労": {
+        "jlpt": 3,
+        "freq": 398,
+        "strokes": 7
+    },
+    "犬": {
+        "jlpt": 4,
+        "freq": 1326,
+        "strokes": 4
+    },
+    "糧": {
+        "jlpt": 1,
+        "freq": 1354,
+        "strokes": 18
+    },
+    "糟": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "鼻": {
+        "jlpt": 2,
+        "freq": 1632,
+        "strokes": 14
+    },
+    "誇": {
+        "jlpt": 1,
+        "freq": 1272,
+        "strokes": 13
+    },
+    "被": {
+        "jlpt": 2,
+        "freq": 431,
+        "strokes": 10
+    },
+    "肩": {
+        "jlpt": 2,
+        "freq": 1215,
+        "strokes": 8
+    },
+    "貧": {
+        "jlpt": 3,
+        "freq": 1211,
+        "strokes": 11
+    },
+    "凍": {
+        "jlpt": 2,
+        "freq": 1284,
+        "strokes": 10
+    },
+    "掛": {
+        "jlpt": 3,
+        "freq": 1027,
+        "strokes": 11
+    },
+    "曲": {
+        "jlpt": 3,
+        "freq": 810,
+        "strokes": 6
+    },
+    "藁": {
+        "jlpt": -1,
+        "freq": 2488,
+        "strokes": 17
+    },
+    "囲": {
+        "jlpt": 2,
+        "freq": 771,
+        "strokes": 7
+    },
+    "憂": {
+        "jlpt": 1,
+        "freq": 1625,
+        "strokes": 15
+    },
+    "甑": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "蜘": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "蛛": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "炊": {
+        "jlpt": 1,
+        "freq": 1777,
+        "strokes": 8
+    },
+    "切": {
+        "jlpt": 4,
+        "freq": 324,
+        "strokes": 4
+    },
+    "選": {
+        "jlpt": 3,
+        "freq": 57,
+        "strokes": 15
+    },
+    "反": {
+        "jlpt": 3,
+        "freq": 191,
+        "strokes": 4
+    },
+    "戴": {
+        "jlpt": -1,
+        "freq": 2332,
+        "strokes": 17
+    },
+    "境": {
+        "jlpt": 2,
+        "freq": 346,
+        "strokes": 14
+    },
+    "舳": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "導": {
+        "jlpt": 2,
+        "freq": 354,
+        "strokes": 15
+    },
+    "墨": {
+        "jlpt": 1,
+        "freq": 1616,
+        "strokes": 14
+    },
+    "値": {
+        "jlpt": 3,
+        "freq": 518,
+        "strokes": 10
+    },
+    "嘉": {
+        "jlpt": 1,
+        "freq": 1553,
+        "strokes": 14
+    },
+    "掃": {
+        "jlpt": 2,
+        "freq": 1255,
+        "strokes": 11
+    },
+    "謂": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "州": {
+        "jlpt": 2,
+        "freq": 386,
+        "strokes": 6
+    },
+    "壽": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "喪": {
+        "jlpt": 1,
+        "freq": 885,
+        "strokes": 12
+    },
+    "瘡": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "表": {
+        "jlpt": 3,
+        "freq": 77,
+        "strokes": 8
+    },
+    "棄": {
+        "jlpt": 1,
+        "freq": 901,
+        "strokes": 13
+    },
+    "煩": {
+        "jlpt": 1,
+        "freq": 2081,
+        "strokes": 13
+    },
+    "腐": {
+        "jlpt": 1,
+        "freq": 1225,
+        "strokes": 14
+    },
+    "絹": {
+        "jlpt": 1,
+        "freq": 1916,
+        "strokes": 13
+    },
+    "龜": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 18
+    },
+    "但": {
+        "jlpt": 1,
+        "freq": 2404,
+        "strokes": 7
+    },
+    "類": {
+        "jlpt": 3,
+        "freq": 678,
+        "strokes": 18
+    },
+    "以": {
+        "jlpt": 4,
+        "freq": 126,
+        "strokes": 5
+    },
+    "載": {
+        "jlpt": 1,
+        "freq": 825,
+        "strokes": 13
+    },
+    "戯": {
+        "jlpt": 1,
+        "freq": 1880,
+        "strokes": 15
+    },
+    "悪": {
+        "jlpt": 4,
+        "freq": 530,
+        "strokes": 11
+    },
+    "邪": {
+        "jlpt": 1,
+        "freq": 1612,
+        "strokes": 8
+    },
+    "躍": {
+        "jlpt": 1,
+        "freq": 900,
+        "strokes": 21
+    },
+    "叫": {
+        "jlpt": 2,
+        "freq": 1426,
+        "strokes": 6
+    },
+    "賄": {
+        "jlpt": 1,
+        "freq": 1282,
+        "strokes": 13
+    },
+    "施": {
+        "jlpt": 1,
+        "freq": 323,
+        "strokes": 9
+    },
+    "造": {
+        "jlpt": 2,
+        "freq": 429,
+        "strokes": 10
+    },
+    "雑": {
+        "jlpt": 3,
+        "freq": 839,
+        "strokes": 14
+    },
+    "所": {
+        "jlpt": 3,
+        "freq": 221,
+        "strokes": 8
+    },
+    "挾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "鰒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 20
+    },
+    "帆": {
+        "jlpt": 1,
+        "freq": 1923,
+        "strokes": 6
+    },
+    "鮪": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "皮": {
+        "jlpt": 2,
+        "freq": 1092,
+        "strokes": 5
+    },
+    "細": {
+        "jlpt": 2,
+        "freq": 537,
+        "strokes": 11
+    },
+    "採": {
+        "jlpt": 2,
+        "freq": 607,
+        "strokes": 11
+    },
+    "慣": {
+        "jlpt": 3,
+        "freq": 1177,
+        "strokes": 14
+    },
+    "茎": {
+        "jlpt": 1,
+        "freq": 2013,
+        "strokes": 8
+    },
+    "栖": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "班": {
+        "jlpt": 1,
+        "freq": 1592,
+        "strokes": 10
+    },
+    "挙": {
+        "jlpt": 1,
+        "freq": 257,
+        "strokes": 10
+    },
+    "遅": {
+        "jlpt": 3,
+        "freq": 833,
+        "strokes": 12
+    },
+    "盤": {
+        "jlpt": 1,
+        "freq": 881,
+        "strokes": 15
+    },
+    "粉": {
+        "jlpt": 2,
+        "freq": 1484,
+        "strokes": 10
+    },
+    "綱": {
+        "jlpt": 1,
+        "freq": 1053,
+        "strokes": 14
+    },
+    "現": {
+        "jlpt": 3,
+        "freq": 85,
+        "strokes": 11
+    },
+    "泥": {
+        "jlpt": 2,
+        "freq": 1589,
+        "strokes": 8
+    },
+    "芸": {
+        "jlpt": 2,
+        "freq": 719,
+        "strokes": 7
+    },
+    "芝": {
+        "jlpt": 1,
+        "freq": 1052,
+        "strokes": 6
+    },
+    "当": {
+        "jlpt": 3,
+        "freq": 91,
+        "strokes": 6
+    },
+    "錦": {
+        "jlpt": 1,
+        "freq": 1440,
+        "strokes": 16
+    },
+    "狛": {
+        "jlpt": -1,
+        "freq": 2196,
+        "strokes": 8
+    },
+    "覚": {
+        "jlpt": 3,
+        "freq": 710,
+        "strokes": 12
+    },
+    "西": {
+        "jlpt": 5,
+        "freq": 259,
+        "strokes": 6
+    },
+    "穴": {
+        "jlpt": 1,
+        "freq": 1366,
+        "strokes": 5
+    },
+    "峰": {
+        "jlpt": 1,
+        "freq": 1836,
+        "strokes": 10
+    },
+    "脈": {
+        "jlpt": 1,
+        "freq": 1477,
+        "strokes": 10
+    },
+    "織": {
+        "jlpt": 1,
+        "freq": 608,
+        "strokes": 18
+    },
+    "樋": {
+        "jlpt": -1,
+        "freq": 1814,
+        "strokes": 14
+    },
+    "栢": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "屑": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "乾": {
+        "jlpt": 2,
+        "freq": 1453,
+        "strokes": 11
+    },
+    "摺": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "連": {
+        "jlpt": 3,
+        "freq": 30,
+        "strokes": 10
+    },
+    "騨": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "許": {
+        "jlpt": 3,
+        "freq": 720,
+        "strokes": 11
+    },
+    "焚": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "牛": {
+        "jlpt": 4,
+        "freq": 1202,
+        "strokes": 4
+    },
+    "由": {
+        "jlpt": 3,
+        "freq": 325,
+        "strokes": 5
+    },
+    "岬": {
+        "jlpt": 1,
+        "freq": 1972,
+        "strokes": 8
+    },
+    "機": {
+        "jlpt": 3,
+        "freq": 127,
+        "strokes": 16
+    },
+    "揺": {
+        "jlpt": 1,
+        "freq": 1079,
+        "strokes": 12
+    },
+    "菱": {
+        "jlpt": -1,
+        "freq": 1229,
+        "strokes": 11
+    },
+    "斑": {
+        "jlpt": -1,
+        "freq": 2165,
+        "strokes": 12
+    },
+    "伯": {
+        "jlpt": 1,
+        "freq": 1741,
+        "strokes": 7
+    },
+    "卯": {
+        "jlpt": 1,
+        "freq": 2400,
+        "strokes": 5
+    },
+    "烏": {
+        "jlpt": -1,
+        "freq": 2042,
+        "strokes": 10
+    },
+    "買": {
+        "jlpt": 4,
+        "freq": 520,
+        "strokes": 12
+    },
+    "商": {
+        "jlpt": 3,
+        "freq": 413,
+        "strokes": 11
+    },
+    "豆": {
+        "jlpt": 1,
+        "freq": 1422,
+        "strokes": 7
+    },
+    "漢": {
+        "jlpt": 4,
+        "freq": 1487,
+        "strokes": 13
+    },
+    "私": {
+        "jlpt": 4,
+        "freq": 242,
+        "strokes": 7
+    },
+    "売": {
+        "jlpt": 4,
+        "freq": 202,
+        "strokes": 7
+    },
+    "裁": {
+        "jlpt": 1,
+        "freq": 297,
+        "strokes": 12
+    },
+    "疲": {
+        "jlpt": 3,
+        "freq": 1263,
+        "strokes": 10
+    },
+    "編": {
+        "jlpt": 2,
+        "freq": 591,
+        "strokes": 15
+    },
+    "橡": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "洗": {
+        "jlpt": 3,
+        "freq": 1168,
+        "strokes": 9
+    },
+    "繰": {
+        "jlpt": 1,
+        "freq": 872,
+        "strokes": 19
+    },
+    "達": {
+        "jlpt": 3,
+        "freq": 500,
+        "strokes": 12
+    },
+    "檀": {
+        "jlpt": 1,
+        "freq": 2291,
+        "strokes": 17
+    },
+    "梯": {
+        "jlpt": -1,
+        "freq": 2218,
+        "strokes": 11
+    },
+    "秀": {
+        "jlpt": 1,
+        "freq": 848,
+        "strokes": 7
+    },
+    "桃": {
+        "jlpt": 1,
+        "freq": 1784,
+        "strokes": 10
+    },
+    "桑": {
+        "jlpt": 1,
+        "freq": 1650,
+        "strokes": 10
+    },
+    "毛": {
+        "jlpt": 2,
+        "freq": 1179,
+        "strokes": 4
+    },
+    "桂": {
+        "jlpt": 1,
+        "freq": 1651,
+        "strokes": 10
+    },
+    "削": {
+        "jlpt": 1,
+        "freq": 814,
+        "strokes": 9
+    },
+    "埋": {
+        "jlpt": 2,
+        "freq": 1110,
+        "strokes": 10
+    },
+    "著": {
+        "jlpt": 2,
+        "freq": 849,
+        "strokes": 11
+    },
+    "薪": {
+        "jlpt": 1,
+        "freq": 2182,
+        "strokes": 16
+    },
+    "斧": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "婆": {
+        "jlpt": 1,
+        "freq": 2435,
+        "strokes": 11
+    },
+    "撒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "萌": {
+        "jlpt": 1,
+        "freq": 2346,
+        "strokes": 11
+    },
+    "含": {
+        "jlpt": 2,
+        "freq": 466,
+        "strokes": 7
+    },
+    "苑": {
+        "jlpt": 1,
+        "freq": 2060,
+        "strokes": 8
+    },
+    "抜": {
+        "jlpt": 3,
+        "freq": 726,
+        "strokes": 7
+    },
+    "歓": {
+        "jlpt": 1,
+        "freq": 1065,
+        "strokes": 15
+    },
+    "菖": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "蒲": {
+        "jlpt": -1,
+        "freq": 1887,
+        "strokes": 13
+    },
+    "遥": {
+        "jlpt": 1,
+        "freq": 2376,
+        "strokes": 12
+    },
+    "塗": {
+        "jlpt": 2,
+        "freq": 1414,
+        "strokes": 13
+    },
+    "投": {
+        "jlpt": 3,
+        "freq": 236,
+        "strokes": 7
+    },
+    "蘆": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "袴": {
+        "jlpt": -1,
+        "freq": 2175,
+        "strokes": 11
+    },
+    "顔": {
+        "jlpt": 3,
+        "freq": 676,
+        "strokes": 18
+    },
+    "其": {
+        "jlpt": -1,
+        "freq": 1930,
+        "strokes": 8
+    },
+    "挿": {
+        "jlpt": 1,
+        "freq": 1908,
+        "strokes": 10
+    },
+    "晴": {
+        "jlpt": 3,
+        "freq": 1022,
+        "strokes": 12
+    },
+    "濱": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "蝦": {
+        "jlpt": -1,
+        "freq": 2501,
+        "strokes": 15
+    },
+    "渋": {
+        "jlpt": 1,
+        "freq": 1011,
+        "strokes": 11
+    },
+    "堰": {
+        "jlpt": -1,
+        "freq": 1913,
+        "strokes": 12
+    },
+    "尼": {
+        "jlpt": 1,
+        "freq": 1844,
+        "strokes": 5
+    },
+    "逆": {
+        "jlpt": 2,
+        "freq": 683,
+        "strokes": 9
+    },
+    "官": {
+        "jlpt": 3,
+        "freq": 230,
+        "strokes": 8
+    },
+    "嬉": {
+        "jlpt": 1,
+        "freq": 2274,
+        "strokes": 15
+    },
+    "雄": {
+        "jlpt": 1,
+        "freq": 669,
+        "strokes": 12
+    },
+    "扇": {
+        "jlpt": 1,
+        "freq": 1805,
+        "strokes": 10
+    },
+    "鷺": {
+        "jlpt": -1,
+        "freq": 2172,
+        "strokes": 24
+    },
+    "杏": {
+        "jlpt": 1,
+        "freq": 2159,
+        "strokes": 7
+    },
+    "椋": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "収": {
+        "jlpt": 3,
+        "freq": 337,
+        "strokes": 4
+    },
+    "裏": {
+        "jlpt": 2,
+        "freq": 812,
+        "strokes": 13
+    },
+    "房": {
+        "jlpt": 1,
+        "freq": 808,
+        "strokes": 8
+    },
+    "珠": {
+        "jlpt": 1,
+        "freq": 1711,
+        "strokes": 10
+    },
+    "鍵": {
+        "jlpt": -1,
+        "freq": 2029,
+        "strokes": 17
+    },
+    "鰹": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 23
+    },
+    "鯛": {
+        "jlpt": 1,
+        "freq": 2446,
+        "strokes": 19
+    },
+    "愚": {
+        "jlpt": 1,
+        "freq": 1551,
+        "strokes": 13
+    },
+    "埼": {
+        "jlpt": -1,
+        "freq": 971,
+        "strokes": 11
+    },
+    "沿": {
+        "jlpt": 1,
+        "freq": 1121,
+        "strokes": 8
+    },
+    "暑": {
+        "jlpt": 1,
+        "freq": 1442,
+        "strokes": 12
+    },
+    "汗": {
+        "jlpt": 2,
+        "freq": 1502,
+        "strokes": 6
+    },
+    "卵": {
+        "jlpt": 2,
+        "freq": 1342,
+        "strokes": 7
+    },
+    "鷲": {
+        "jlpt": -1,
+        "freq": 1925,
+        "strokes": 23
+    },
+    "服": {
+        "jlpt": 4,
+        "freq": 873,
+        "strokes": 8
+    },
+    "俗": {
+        "jlpt": 1,
+        "freq": 1610,
+        "strokes": 9
+    },
+    "等": {
+        "jlpt": 3,
+        "freq": 798,
+        "strokes": 12
+    },
+    "楊": {
+        "jlpt": 1,
+        "freq": 1815,
+        "strokes": 13
+    },
+    "宅": {
+        "jlpt": 3,
+        "freq": 357,
+        "strokes": 6
+    },
+    "丸": {
+        "jlpt": 2,
+        "freq": 542,
+        "strokes": 3
+    },
+    "菟": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "塚": {
+        "jlpt": 1,
+        "freq": 869,
+        "strokes": 12
+    },
+    "箸": {
+        "jlpt": -1,
+        "freq": 2156,
+        "strokes": 15
+    },
+    "衿": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "梳": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "綾": {
+        "jlpt": 1,
+        "freq": 1759,
+        "strokes": 14
+    },
+    "虚": {
+        "jlpt": 1,
+        "freq": 1454,
+        "strokes": 11
+    },
+    "墓": {
+        "jlpt": 1,
+        "freq": 1337,
+        "strokes": 13
+    },
+    "縁": {
+        "jlpt": 1,
+        "freq": 1291,
+        "strokes": 15
+    },
+    "崖": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "緑": {
+        "jlpt": 2,
+        "freq": 1180,
+        "strokes": 14
+    },
+    "森": {
+        "jlpt": 2,
+        "freq": 609,
+        "strokes": 12
+    },
+    "煮": {
+        "jlpt": 1,
+        "freq": 1565,
+        "strokes": 12
+    },
+    "供": {
+        "jlpt": 3,
+        "freq": 313,
+        "strokes": 8
+    },
+    "受": {
+        "jlpt": 3,
+        "freq": 136,
+        "strokes": 8
+    },
+    "贈": {
+        "jlpt": 2,
+        "freq": 1001,
+        "strokes": 18
+    },
+    "縒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "裂": {
+        "jlpt": 1,
+        "freq": 1041,
+        "strokes": 12
+    },
+    "顧": {
+        "jlpt": 1,
+        "freq": 1058,
+        "strokes": 21
+    },
+    "垢": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "艫": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 22
+    },
+    "涼": {
+        "jlpt": 2,
+        "freq": 1783,
+        "strokes": 11
+    },
+    "疾": {
+        "jlpt": 1,
+        "freq": 1577,
+        "strokes": 10
+    },
+    "苫": {
+        "jlpt": -1,
+        "freq": 2028,
+        "strokes": 8
+    },
+    "梨": {
+        "jlpt": 1,
+        "freq": 1331,
+        "strokes": 11
+    },
+    "郡": {
+        "jlpt": 1,
+        "freq": 965,
+        "strokes": 10
+    },
+    "頂": {
+        "jlpt": 3,
+        "freq": 1350,
+        "strokes": 11
+    },
+    "号": {
+        "jlpt": 3,
+        "freq": 585,
+        "strokes": 5
+    },
+    "翼": {
+        "jlpt": 1,
+        "freq": 1201,
+        "strokes": 17
+    },
+    "漏": {
+        "jlpt": 1,
+        "freq": 1298,
+        "strokes": 14
+    },
+    "纒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 22
+    },
+    "喜": {
+        "jlpt": 3,
+        "freq": 769,
+        "strokes": 12
+    },
+    "逢": {
+        "jlpt": -1,
+        "freq": 2116,
+        "strokes": 10
+    },
+    "乳": {
+        "jlpt": 2,
+        "freq": 1289,
+        "strokes": 8
+    },
+    "壁": {
+        "jlpt": 1,
+        "freq": 1037,
+        "strokes": 16
+    },
+    "利": {
+        "jlpt": 3,
+        "freq": 203,
+        "strokes": 7
+    },
+    "徒": {
+        "jlpt": 3,
+        "freq": 817,
+        "strokes": 10
+    },
+    "泡": {
+        "jlpt": 1,
+        "freq": 1872,
+        "strokes": 8
+    },
+    "書": {
+        "jlpt": 5,
+        "freq": 169,
+        "strokes": 10
+    },
+    "軒": {
+        "jlpt": 2,
+        "freq": 1416,
+        "strokes": 10
+    },
+    "稗": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "柏": {
+        "jlpt": -1,
+        "freq": 1606,
+        "strokes": 9
+    },
+    "潤": {
+        "jlpt": 1,
+        "freq": 1644,
+        "strokes": 15
+    },
+    "芽": {
+        "jlpt": 1,
+        "freq": 1691,
+        "strokes": 8
+    },
+    "蚕": {
+        "jlpt": 1,
+        "freq": 2272,
+        "strokes": 10
+    },
+    "繭": {
+        "jlpt": 1,
+        "freq": 2495,
+        "strokes": 18
+    },
+    "刃": {
+        "jlpt": 1,
+        "freq": 1763,
+        "strokes": 3
+    },
+    "街": {
+        "jlpt": 1,
+        "freq": 891,
+        "strokes": 12
+    },
+    "捨": {
+        "jlpt": 2,
+        "freq": 1266,
+        "strokes": 11
+    },
+    "朽": {
+        "jlpt": 1,
+        "freq": 1891,
+        "strokes": 6
+    },
+    "席": {
+        "jlpt": 3,
+        "freq": 370,
+        "strokes": 10
+    },
+    "箕": {
+        "jlpt": -1,
+        "freq": 2023,
+        "strokes": 14
+    },
+    "閉": {
+        "jlpt": 3,
+        "freq": 951,
+        "strokes": 11
+    },
+    "怒": {
+        "jlpt": 3,
+        "freq": 1221,
+        "strokes": 9
+    },
+    "緩": {
+        "jlpt": 1,
+        "freq": 933,
+        "strokes": 15
+    },
+    "壊": {
+        "jlpt": 1,
+        "freq": 727,
+        "strokes": 16
+    },
+    "桁": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "材": {
+        "jlpt": 2,
+        "freq": 565,
+        "strokes": 7
+    },
+    "翁": {
+        "jlpt": 1,
+        "freq": 2064,
+        "strokes": 10
+    },
+    "焦": {
+        "jlpt": 1,
+        "freq": 973,
+        "strokes": 12
+    },
+    "煤": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "又": {
+        "jlpt": 1,
+        "freq": 1874,
+        "strokes": 2
+    },
+    "窓": {
+        "jlpt": 3,
+        "freq": 1186,
+        "strokes": 11
+    },
+    "歯": {
+        "jlpt": 3,
+        "freq": 1106,
+        "strokes": 12
+    },
+    "責": {
+        "jlpt": 3,
+        "freq": 598,
+        "strokes": 11
+    },
+    "籠": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 22
+    },
+    "急": {
+        "jlpt": 4,
+        "freq": 309,
+        "strokes": 9
+    },
+    "酢": {
+        "jlpt": 1,
+        "freq": 1955,
+        "strokes": 12
+    },
+    "蛾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "駅": {
+        "jlpt": 4,
+        "freq": 724,
+        "strokes": 14
+    },
+    "蓼": {
+        "jlpt": -1,
+        "freq": 2447,
+        "strokes": 14
+    },
+    "幹": {
+        "jlpt": 1,
+        "freq": 364,
+        "strokes": 13
+    },
+    "除": {
+        "jlpt": 3,
+        "freq": 594,
+        "strokes": 10
+    },
+    "溝": {
+        "jlpt": 1,
+        "freq": 1736,
+        "strokes": 13
+    },
+    "讒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 24
+    },
+    "確": {
+        "jlpt": 3,
+        "freq": 252,
+        "strokes": 15
+    },
+    "如": {
+        "jlpt": 1,
+        "freq": 1704,
+        "strokes": 6
+    },
+    "聡": {
+        "jlpt": 1,
+        "freq": 1507,
+        "strokes": 14
+    },
+    "捕": {
+        "jlpt": 3,
+        "freq": 604,
+        "strokes": 10
+    },
+    "榴": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "袷": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "純": {
+        "jlpt": 2,
+        "freq": 1044,
+        "strokes": 10
+    },
+    "悩": {
+        "jlpt": 2,
+        "freq": 1084,
+        "strokes": 10
+    },
+    "績": {
+        "jlpt": 2,
+        "freq": 820,
+        "strokes": 17
+    },
+    "鳩": {
+        "jlpt": 1,
+        "freq": 1637,
+        "strokes": 13
+    },
+    "因": {
+        "jlpt": 3,
+        "freq": 636,
+        "strokes": 6
+    },
+    "可": {
+        "jlpt": -1,
+        "freq": 314,
+        "strokes": 5
+    },
+    "熱": {
+        "jlpt": 3,
+        "freq": 700,
+        "strokes": 15
+    },
+    "殺": {
+        "jlpt": 3,
+        "freq": 581,
+        "strokes": 10
+    },
+    "怪": {
+        "jlpt": 1,
+        "freq": 1634,
+        "strokes": 8
+    },
+    "宗": {
+        "jlpt": 1,
+        "freq": 997,
+        "strokes": 8
+    },
+    "麦": {
+        "jlpt": 2,
+        "freq": 1615,
+        "strokes": 7
+    },
+    "罵": {
+        "jlpt": -1,
+        "freq": 2467,
+        "strokes": 15
+    },
+    "猶": {
+        "jlpt": 1,
+        "freq": 1799,
+        "strokes": 12
+    },
+    "駄": {
+        "jlpt": 1,
+        "freq": 1500,
+        "strokes": 14
+    },
+    "度": {
+        "jlpt": 4,
+        "freq": 110,
+        "strokes": 9
+    },
+    "盗": {
+        "jlpt": 3,
+        "freq": 1051,
+        "strokes": 11
+    },
+    "蓑": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "鈴": {
+        "jlpt": 1,
+        "freq": 880,
+        "strokes": 13
+    },
+    "藺": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "管": {
+        "jlpt": 2,
+        "freq": 517,
+        "strokes": 14
+    },
+    "突": {
+        "jlpt": 3,
+        "freq": 521,
+        "strokes": 8
+    },
+    "杭": {
+        "jlpt": -1,
+        "freq": 2329,
+        "strokes": 8
+    },
+    "還": {
+        "jlpt": 1,
+        "freq": 910,
+        "strokes": 16
+    },
+    "尺": {
+        "jlpt": 1,
+        "freq": 1940,
+        "strokes": 4
+    },
+    "吠": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 7
+    },
+    "氷": {
+        "jlpt": 2,
+        "freq": 1450,
+        "strokes": 5
+    },
+    "蓮": {
+        "jlpt": 1,
+        "freq": 1839,
+        "strokes": 13
+    },
+    "溜": {
+        "jlpt": -1,
+        "freq": 2451,
+        "strokes": 13
+    },
+    "牟": {
+        "jlpt": -1,
+        "freq": 2092,
+        "strokes": 6
+    },
+    "婁": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "腹": {
+        "jlpt": 3,
+        "freq": 1286,
+        "strokes": 13
+    },
+    "砌": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "蛍": {
+        "jlpt": 1,
+        "freq": 2031,
+        "strokes": 11
+    },
+    "模": {
+        "jlpt": 1,
+        "freq": 668,
+        "strokes": 14
+    },
+    "蔵": {
+        "jlpt": 2,
+        "freq": 468,
+        "strokes": 15
+    },
+    "鎌": {
+        "jlpt": 1,
+        "freq": 1587,
+        "strokes": 18
+    },
+    "碓": {
+        "jlpt": -1,
+        "freq": 2364,
+        "strokes": 13
+    },
+    "蘇": {
+        "jlpt": -1,
+        "freq": 1968,
+        "strokes": 19
+    },
+    "杼": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "虹": {
+        "jlpt": 1,
+        "freq": 2110,
+        "strokes": 9
+    },
+    "柿": {
+        "jlpt": -1,
+        "freq": 1745,
+        "strokes": 9
+    },
+    "楢": {
+        "jlpt": -1,
+        "freq": 2032,
+        "strokes": 13
+    },
+    "努": {
+        "jlpt": 3,
+        "freq": 749,
+        "strokes": 7
+    },
+    "苧": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "萱": {
+        "jlpt": -1,
+        "freq": 2217,
+        "strokes": 12
+    },
+    "齊": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "兎": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "繋": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "搗": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "曽": {
+        "jlpt": -1,
+        "freq": 1320,
+        "strokes": 11
+    },
+    "朱": {
+        "jlpt": 1,
+        "freq": 1788,
+        "strokes": 6
+    },
+    "旋": {
+        "jlpt": 1,
+        "freq": 1801,
+        "strokes": 11
+    },
+    "蝉": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "傾": {
+        "jlpt": 2,
+        "freq": 938,
+        "strokes": 13
+    },
+    "灯": {
+        "jlpt": 2,
+        "freq": 1605,
+        "strokes": 6
+    },
+    "亭": {
+        "jlpt": 1,
+        "freq": 1627,
+        "strokes": 9
+    },
+    "也": {
+        "jlpt": 1,
+        "freq": 1404,
+        "strokes": 3
+    },
+    "鴈": {
+        "jlpt": -1,
+        "freq": 2128,
+        "strokes": 15
+    },
+    "壱": {
+        "jlpt": 1,
+        "freq": 2351,
+        "strokes": 7
+    },
+    "滅": {
+        "jlpt": 1,
+        "freq": 1222,
+        "strokes": 13
+    },
+    "塵": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "涸": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "稚": {
+        "jlpt": 1,
+        "freq": 1560,
+        "strokes": 13
+    },
+    "頚": {
+        "jlpt": -1,
+        "freq": 2470,
+        "strokes": 14
+    },
+    "財": {
+        "jlpt": 3,
+        "freq": 494,
+        "strokes": 10
+    },
+    "履": {
+        "jlpt": 1,
+        "freq": 1619,
+        "strokes": 15
+    },
+    "縹": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "甍": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "鑑": {
+        "jlpt": 1,
+        "freq": 1391,
+        "strokes": 23
+    },
+    "感": {
+        "jlpt": 3,
+        "freq": 233,
+        "strokes": 13
+    },
+    "否": {
+        "jlpt": 3,
+        "freq": 561,
+        "strokes": 7
+    },
+    "諾": {
+        "jlpt": 1,
+        "freq": 1490,
+        "strokes": 15
+    },
+    "顕": {
+        "jlpt": 1,
+        "freq": 1536,
+        "strokes": 18
+    },
+    "櫃": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 18
+    },
+    "鍋": {
+        "jlpt": -1,
+        "freq": 1810,
+        "strokes": 17
+    },
+    "沸": {
+        "jlpt": 2,
+        "freq": 1709,
+        "strokes": 8
+    },
+    "狐": {
+        "jlpt": -1,
+        "freq": 2185,
+        "strokes": 9
+    },
+    "浴": {
+        "jlpt": 2,
+        "freq": 1136,
+        "strokes": 10
+    },
+    "芋": {
+        "jlpt": 1,
+        "freq": 2418,
+        "strokes": 6
+    },
+    "双": {
+        "jlpt": 2,
+        "freq": 1029,
+        "strokes": 4
+    },
+    "塔": {
+        "jlpt": 2,
+        "freq": 1708,
+        "strokes": 12
+    },
+    "醤": {
+        "jlpt": -1,
+        "freq": 2485,
+        "strokes": 17
+    },
+    "蒜": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "羹": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "棗": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "茨": {
+        "jlpt": -1,
+        "freq": 1203,
+        "strokes": 9
+    },
+    "建": {
+        "jlpt": 4,
+        "freq": 300,
+        "strokes": 9
+    },
+    "蛟": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "黍": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "葵": {
+        "jlpt": 1,
+        "freq": 2122,
+        "strokes": 12
+    },
+    "鬚": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 22
+    },
+    "両": {
+        "jlpt": 3,
+        "freq": 247,
+        "strokes": 6
+    },
+    "産": {
+        "jlpt": 3,
+        "freq": 161,
+        "strokes": 11
+    },
+    "仏": {
+        "jlpt": 2,
+        "freq": 819,
+        "strokes": 4
+    },
+    "腋": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "剃": {
+        "jlpt": -1,
+        "freq": 2411,
+        "strokes": 9
+    },
+    "壇": {
+        "jlpt": 1,
+        "freq": 1512,
+        "strokes": 16
+    },
+    "課": {
+        "jlpt": 2,
+        "freq": 455,
+        "strokes": 15
+    },
+    "役": {
+        "jlpt": 3,
+        "freq": 315,
+        "strokes": 7
+    },
+    "徴": {
+        "jlpt": 1,
+        "freq": 850,
+        "strokes": 14
+    },
+    "孤": {
+        "jlpt": 1,
+        "freq": 1239,
+        "strokes": 9
+    },
+    "鰻": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 22
+    },
+    "賣": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 15
+    },
+    "莢": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "瞼": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 18
+    },
+    "腫": {
+        "jlpt": -1,
+        "freq": 2145,
+        "strokes": 13
+    },
+    "記": {
+        "jlpt": 3,
+        "freq": 149,
+        "strokes": 10
+    },
+    "功": {
+        "jlpt": 1,
+        "freq": 857,
+        "strokes": 5
+    },
+    "位": {
+        "jlpt": 3,
+        "freq": 276,
+        "strokes": 7
+    },
+    "冠": {
+        "jlpt": 1,
+        "freq": 1503,
+        "strokes": 9
+    },
+    "机": {
+        "jlpt": 2,
+        "freq": 1671,
+        "strokes": 6
+    },
+    "濯": {
+        "jlpt": 2,
+        "freq": 1698,
+        "strokes": 17
+    },
+    "揉": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 12
+    },
+    "坏": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 7
+    },
+    "翳": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "麓": {
+        "jlpt": -1,
+        "freq": 2366,
+        "strokes": 19
+    },
+    "鏑": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 19
+    },
+    "筆": {
+        "jlpt": 2,
+        "freq": 1132,
+        "strokes": 12
+    },
+    "肉": {
+        "jlpt": 4,
+        "freq": 986,
+        "strokes": 6
+    },
+    "膾": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 17
+    },
+    "蟹": {
+        "jlpt": -1,
+        "freq": 2417,
+        "strokes": 19
+    },
+    "弾": {
+        "jlpt": 1,
+        "freq": 853,
+        "strokes": 12
+    },
+    "楡": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "剥": {
+        "jlpt": -1,
+        "freq": 2383,
+        "strokes": 10
+    },
+    "臼": {
+        "jlpt": -1,
+        "freq": 2048,
+        "strokes": 6
+    },
+    "陶": {
+        "jlpt": 1,
+        "freq": 1680,
+        "strokes": 11
+    },
+    "瓶": {
+        "jlpt": 2,
+        "freq": 1528,
+        "strokes": 11
+    },
+    "非": {
+        "jlpt": 3,
+        "freq": 472,
+        "strokes": 8
+    },
+    "灘": {
+        "jlpt": -1,
+        "freq": 1912,
+        "strokes": 21
+    },
+    "恵": {
+        "jlpt": 1,
+        "freq": 925,
+        "strokes": 10
+    },
+    "捻": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 11
+    },
+    "呉": {
+        "jlpt": 1,
+        "freq": 1729,
+        "strokes": 7
+    },
+    "性": {
+        "jlpt": 3,
+        "freq": 104,
+        "strokes": 8
+    },
+    "院": {
+        "jlpt": 4,
+        "freq": 150,
+        "strokes": 10
+    },
+    "薫": {
+        "jlpt": 1,
+        "freq": 1849,
+        "strokes": 16
+    },
+    "遺": {
+        "jlpt": 1,
+        "freq": 647,
+        "strokes": 15
+    },
+    "統": {
+        "jlpt": 1,
+        "freq": 125,
+        "strokes": 12
+    },
+    "砺": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 10
+    },
+    "篝": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "誘": {
+        "jlpt": 1,
+        "freq": 993,
+        "strokes": 14
+    },
+    "鷹": {
+        "jlpt": 1,
+        "freq": 1676,
+        "strokes": 24
+    },
+    "蒼": {
+        "jlpt": 1,
+        "freq": 2276,
+        "strokes": 13
+    },
+    "毎": {
+        "jlpt": 5,
+        "freq": 436,
+        "strokes": 6
+    },
+    "狂": {
+        "jlpt": 1,
+        "freq": 1425,
+        "strokes": 7
+    },
+    "婦": {
+        "jlpt": 3,
+        "freq": 671,
+        "strokes": 11
+    },
+    "是": {
+        "jlpt": 1,
+        "freq": 1045,
+        "strokes": 9
+    },
+    "鐙": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 20
+    },
+    "漬": {
+        "jlpt": 1,
+        "freq": 1818,
+        "strokes": 14
+    },
+    "咋": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 8
+    },
+    "饒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 21
+    },
+    "詞": {
+        "jlpt": 2,
+        "freq": 1636,
+        "strokes": 12
+    },
+    "扱": {
+        "jlpt": 1,
+        "freq": 1057,
+        "strokes": 6
+    },
+    "旦": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 5
+    },
+    "将": {
+        "jlpt": 2,
+        "freq": 634,
+        "strokes": 10
+    },
+    "油": {
+        "jlpt": 2,
+        "freq": 690,
+        "strokes": 8
+    },
+    "厚": {
+        "jlpt": 2,
+        "freq": 768,
+        "strokes": 9
+    },
+    "屍": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 9
+    },
+    "字": {
+        "jlpt": 4,
+        "freq": 485,
+        "strokes": 6
+    },
+    "孫": {
+        "jlpt": 2,
+        "freq": 1388,
+        "strokes": 10
+    },
+    "蓬": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "縦": {
+        "jlpt": 1,
+        "freq": 1258,
+        "strokes": 16
+    },
+    "薮": {
+        "jlpt": -1,
+        "freq": 2109,
+        "strokes": 16
+    },
+    "李": {
+        "jlpt": 1,
+        "freq": 1147,
+        "strokes": 7
+    },
+    "鴫": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "燕": {
+        "jlpt": -1,
+        "freq": 2147,
+        "strokes": 16
+    },
+    "唄": {
+        "jlpt": 1,
+        "freq": 2051,
+        "strokes": 10
+    },
+    "据": {
+        "jlpt": 1,
+        "freq": 1468,
+        "strokes": 11
+    },
+    "箇": {
+        "jlpt": 1,
+        "freq": -1,
+        "strokes": 14
+    },
+    "飼": {
+        "jlpt": 1,
+        "freq": 1392,
+        "strokes": 13
+    },
+    "捧": {
+        "jlpt": -1,
+        "freq": 2286,
+        "strokes": 11
+    },
+    "健": {
+        "jlpt": 1,
+        "freq": 572,
+        "strokes": 11
+    },
+    "宴": {
+        "jlpt": 1,
+        "freq": 1675,
+        "strokes": 10
+    },
+    "賎": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "絵": {
+        "jlpt": 3,
+        "freq": 895,
+        "strokes": 12
+    },
+    "描": {
+        "jlpt": 1,
+        "freq": 876,
+        "strokes": 11
+    },
+    "勇": {
+        "jlpt": 2,
+        "freq": 1319,
+        "strokes": 9
+    },
+    "猛": {
+        "jlpt": 1,
+        "freq": 1301,
+        "strokes": 11
+    },
+    "慈": {
+        "jlpt": 1,
+        "freq": 1811,
+        "strokes": 13
+    },
+    "楯": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 13
+    },
+    "枢": {
+        "jlpt": 1,
+        "freq": 1791,
+        "strokes": 8
+    },
+    "征": {
+        "jlpt": 1,
+        "freq": 1578,
+        "strokes": 8
+    },
+    "髭": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 16
+    },
+    "芹": {
+        "jlpt": 1,
+        "freq": 2158,
+        "strokes": 7
+    },
+    "箒": {
+        "jlpt": -1,
+        "freq": -1,
+        "strokes": 14
+    }
+}
