@@ -29,9 +29,9 @@ class KanjiVsWords {
             await this._processHiragana(hiragana)
             ++this._currentUtaNum
         }
-        fs.writeFileSync('poem-kanji.json', JSON.stringify(this._kanjiCount))
-        fs.writeFileSync('poem-words.json', JSON.stringify(this._wordsSeenForKanji))
-        fs.writeFileSync('poem-morae.json', JSON.stringify(this._moraeForUta))
+        fs.writeFileSync('../data/poem-kanji.json', JSON.stringify(this._kanjiCount))
+        fs.writeFileSync('../data/poem-words.json', JSON.stringify(this._wordsSeenForKanji))
+        fs.writeFileSync('../data/poem-morae.json', JSON.stringify(this._moraeForUta))
 
     }
 

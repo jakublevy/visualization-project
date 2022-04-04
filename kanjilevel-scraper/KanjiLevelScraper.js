@@ -4,7 +4,7 @@ class KanjiLevelScraper {
     constructor(browser, page, kanji) {
         this._browser = browser
         this._page = page
-        this._outputFile = 'kanji-info.json'
+        this._outputFile = '../data/kanji-info.json'
         this._kanji = kanji
         this._kanjiInfo = {}
     }

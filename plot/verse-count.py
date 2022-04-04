@@ -1,13 +1,13 @@
 import json
-from math import ceil
-import math
 from matplotlib import pyplot as plt
 from matplotlib.backend_bases import MouseButton
 import pyperclip
-from functools import partial
+import math
 import multiprocessing
+from functools import partial
 
 
+utas = {}
 pool = None
 
 katauta = [5,7,7]
@@ -15,23 +15,20 @@ tanka = [5,7,5,7,7]
 sedouka = [5,7,7,5,7,7]
 bussokusekika = [5,7,5,7,7,7]
 
-utas = {}
-
 ANNOTATE_SHIFT_X = 20
 ANNOTATE_SHIFT_Y = 25
 CPU_COUNT = 6
 
-
 def main():
-    global utas, pool
-    with open('../poem-morae.json') as f:
+    global utas, pool, CPU_COUNT
+    with open('../data/poem-morae.json') as f:
         utas = json.load(f)
 
     CPU_COUNT = multiprocessing.cpu_count()
     pool = multiprocessing.Pool(CPU_COUNT)
-    plot_morae()
+    plot_freq()
 
-def plot_morae():
+def plot_freq():
     def on_mousepress(event):
         if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
             for plot_obj in to_plot:
@@ -42,31 +39,22 @@ def plot_morae():
                         pyperclip.copy(annot_txt(plot_obj))
                     return
 
-
-    to_plot = []
-
-    utas_l = list(utas.items())
-
-    for i in range(0, len(utas_l)):
-        k = utas_l[i][0] #num
-        v = utas_l[i][1] 
-        d = determine_poem(v['morae'])
-        if d != 'indeterminate':
-            to_plot.append(freq_obj(i+1, d, dist_from_type(v['morae'], d), v['morae'], k))
-    
     plt.rcParams['font.family'] = 'Meiryo'
+    annotated = []
     fig, ax = plt.subplots()
-
+    to_plot = []
+    utas_l = list(utas.items())
+    for i in range(0, len(utas_l)):
+        k = utas_l[i][0]
+        v = utas_l[i][1]
+        t = determine_poem(v['morae'])
+        to_plot.append(freq_obj(i+1, v['poemCount'], k, v['morae'], t))
     for obj in to_plot:
-        ax.plot(obj.x, obj.dist, 'o', picker=5)
+        ax.plot(obj.x, obj.y, 'o',picker=5)
 
-    ax.set_title('Compliance of forms')
+    ax.set_title('歌と節の数')
     ax.set_xlabel('Uta Number')
-    ax.set_ylabel('L1 distance')
-    #cursor = mplcursors.cursor(hover=True)
-    #cursor.connect('add', on_hover)
-    
-
+    ax.set_ylabel('Number of Verse')
     fig.canvas.callbacks.connect('button_press_event', on_mousepress)
 #5 25
     annot = ax.annotate("", xy=(0,0), xytext=(ANNOTATE_SHIFT_X,ANNOTATE_SHIFT_Y),textcoords="offset points",
@@ -82,8 +70,8 @@ def plot_morae():
 
     def annot_txt(plot_obj):
         txt = f'歌：{plot_obj.name}\n'
-        txt += f'{plot_obj.type}, ERR: {plot_obj.dist}\n'
-        txt += f'節の数: {len(plot_obj.morae)}\n'
+        txt += f'{plot_obj.type}\n'
+        txt += f'節の数: {plot_obj.y}\n'
         m = ', '.join(map(str, plot_obj.morae))
         txt += f'モーラ: {m}'
         return txt
@@ -153,24 +141,6 @@ def pt_distance(pt,an_pt):
     y2 = an_pt[1]
     return math.sqrt((x1-x2)*(x1-x2) + (y1-y2) * (y1-y2))
 
-    
-
-def dist_from_type(morae, type):
-    if type == 'chouka':
-        m = morae[:]
-        if len(m) % 2 == 0:
-            m.append(0)
-        chouka = [5,7] * (ceil((len(m) - 3)/2)) +  [5,7,7]
-        return l1_dist(chouka, m)
-    elif type == 'tanka':
-        return l1_dist(tanka, morae)
-    elif type == 'bussokusekika':
-        return l1_dist(bussokusekika, morae)
-    elif type == 'katauta':
-        return l1_dist(katauta, morae)
-    elif type == 'sedouka':
-        return l1_dist(sedouka, morae)
-
 def determine_poem(morae):
     if len(morae) == 3:
         return 'katauta'
@@ -207,18 +177,18 @@ def l1_dist(x, y):
     for i in range(len(x)):
         d += abs(x[i] - y[i])
 
-    return d    
-
+    return d
+    
 class freq_obj:
-    def __init__(self, x, type, dist, morae, name):
-        self.type = type
-        self.dist = dist
-        self.morae = morae
-        self.name = name
+    def __init__(self, x, y, name, morae, type):
         self.x = x
+        self.y = y
+        self.name = name
+        self.morae = morae
+        self.type = type
 
     def pt(self):
-        return (self.x,self.dist)
+        return (self.x,self.y)
 
 if __name__ == '__main__':
     main()

@@ -8,7 +8,7 @@ const {KanjiLevelScraper} = require("./KanjiLevelScraper");
 })()
 
 async function main() {
-    const kanjiJson = fs.readFileSync('C:\\Users\\jakub\\WebstormProjects\\manyoushuu-kanji\\kanji.json')
+    const kanjiJson = fs.readFileSync('../data/kanji.json')
     const kanji = JSON.parse(kanjiJson)
 
     const browser = await startPuppeteer()

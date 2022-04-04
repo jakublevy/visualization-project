@@ -5,7 +5,7 @@ class Scraper {
     constructor(browser, page) {
         this._browser = browser
         this._page = page
-        this._outputFile = 'manyoushuu.csv'
+        this._outputFile = '../data/manyoushuu.csv'
     }
     async scrapeAll() {
         for (let i = 1; i <= 20; ++i)

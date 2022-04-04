@@ -25,14 +25,14 @@ def main():
 
 def load_kanji():
     global kanji, kanji_l
-    with open('../poem-kanji.json') as f:
+    with open('../data/poem-kanji.json') as f:
         kanji = json.load(f)
         kanji_l = list(kanji)
 
 
 def load_words():
     global words, words_l
-    with open('../poem-words.json') as f:
+    with open('../data/poem-words.json') as f:
         words = json.load(f)
         words_l = list(words)
 
@@ -65,7 +65,7 @@ def plot_kanji(find_kanji):
     ax.set_title(f'Kanji {find_kanji}')
     ax.set_xlabel('Uta Number')
     ax.set_ylabel('Occurrences')
-    ax.set_xticks([0,500,1000,1499,1999, 2499, 2999+12, 3499+35,3999+45, 4500+44])
+    ax.set_xticks([0,500,1000,1499,1999, 2500, 2999+13, 3499+35,3999+45, 4500+44])
     ax.set_yticks(list(range(0,max(occ)+1, 1)))
     c = mplcursors.cursor(lines, hover=True)
     c.connect('add', kanji_formatter)
@@ -123,7 +123,7 @@ def plot_words(findtxt):
     ax.set_title(f'Word {findtxt}')
     ax.set_xlabel('Uta Number')
     ax.set_ylabel('Occurrences')
-    ax.set_xticks([0,500,1000,1499,1999, 2499, 2999+12, 3499+35,3999+45, 4500+44])
+    ax.set_xticks([0,500,1000,1499,1999, 2500, 2999+13, 3499+35,3999+45, 4500+44])
     ax.set_yticks(list(range(0,max(occ)+1, 1)))
     c = mplcursors.cursor(lines, hover=True)
     c.connect('add', word_formatter)

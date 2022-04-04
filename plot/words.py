@@ -9,13 +9,13 @@ kanji_info = {}
 def main():
     global words, kanji_info
 
-    with open('../words.json') as f:
+    with open('../data/words.json') as f:
         tmp_wordsForKanji = json.load(f)
         for k in tmp_wordsForKanji:
             for w in tmp_wordsForKanji[k]:
                 words[w] = tmp_wordsForKanji[k][w]
 
-    with open('kanji-info.json') as f:
+    with open('../data/kanji-info.json') as f:
         kanji_info = json.load(f)
 
     wordcloud = WordCloud(max_words=200, width = 2000, height = 1500, prefer_horizontal=1.0, color_func=color, background_color='white', font_path='C:\\Windows\\Fonts\\meiryo.ttc').generate_from_frequencies(words)

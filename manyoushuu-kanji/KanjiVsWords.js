@@ -16,8 +16,8 @@ class KanjiVsWords {
             let [num, manyougana, kundoku, hiragana] = line.split(';')
             await this._processRawLine(kundoku)
         }
-        fs.writeFileSync('kanji.json', JSON.stringify(this._kanjiCount))
-        fs.writeFileSync('words.json', JSON.stringify(this._wordsSeenForKanji))
+        fs.writeFileSync('../data/kanji.json', JSON.stringify(this._kanjiCount))
+        fs.writeFileSync('../data/words.json', JSON.stringify(this._wordsSeenForKanji))
 
     }
 

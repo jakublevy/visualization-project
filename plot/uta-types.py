@@ -14,7 +14,7 @@ types_name = {}
 
 def main():
     global utas
-    with open('../poem-morae.json') as f:
+    with open('../data/poem-morae.json') as f:
         utas = json.load(f)
 
     plot_types()

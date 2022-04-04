@@ -1,9 +1,9 @@
 import json
 
 def main():
-    transform_json('poem-kanji.json')
-    transform_json('poem-words.json')
-    transform_json('poem-morae.json')
+    transform_json('../data/poem-kanji.json')
+    transform_json('../data/poem-words.json')
+    transform_json('../data/poem-morae.json')
     # transform_json_morae('poem-morae.json')
 
 def transform_json(path):

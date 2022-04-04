@@ -3,7 +3,6 @@ from matplotlib import pyplot as plt
 from matplotlib.backend_bases import MouseButton
 import pyperclip
 import math
-import sys
 
 kanji = {}
 wordsForKanji = {}
@@ -20,16 +19,16 @@ ANNOTATE_SHIFT_Y = 25
 def main():
     global kanji, wordsForKanji, word_count, kanji_pairs_sorted, most_freq_kanji_occ_count, kanji_with_most_words, kanji_info
 
-    with open('../kanji.json') as f:
+    with open('../data/kanji.json') as f:
         kanji = json.load(f)
         kanji = {k: v for k, v in sorted(kanji.items(), key=lambda item: item[1], reverse=True)}
 
-    with open('../words.json') as f:
+    with open('../data/words.json') as f:
         tmp_wordsForKanji = json.load(f)
         for k in tmp_wordsForKanji:
             wordsForKanji[k] = {k: v for k, v in sorted(tmp_wordsForKanji[k].items(), key=lambda item: item[1], reverse=True)}
 
-    with open('kanji-info.json') as f:
+    with open('../data/kanji-info.json') as f:
         kanji_info = json.load(f)
 
     word_count = sum(kanji.values())
@@ -63,7 +62,7 @@ def plot_freq():
     def on_mousepress(event):
         if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
             for plot_obj in to_plot:
-                if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 3:
+                if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 1:
                     if event.button is MouseButton.LEFT:
                         pyperclip.copy(plot_obj.kanji)
                     elif event.button is MouseButton.RIGHT:
@@ -74,15 +73,14 @@ def plot_freq():
     annotated = []
     fig, ax = plt.subplots()
     to_plot = []
-    kanji_list = list(kanji)
-    for i in range(len(kanji)):
-        to_plot.append(freq_obj(i+1, pt_distance((kanji_freq(kanji_list[i]), kanji_word_freq(kanji_list[i])), (0,0)), kanji_list[i]))
+    for k in kanji:
+        to_plot.append(freq_obj(kanji_freq(k), kanji_word_freq(k), k))
     for obj in to_plot:
         ax.plot(obj.x, obj.y, 'o',picker=5, color=jlpt_color(obj.kanji))
-        # if not collide(obj.x, obj.y, annotated) and pt_distance((obj.x,obj.y), (0,0)) > 20:
-        #     #https://stackoverflow.com/questions/22052532/matplotlib-python-clickable-points
-        #     ax.annotate(obj.kanji, xy=(obj.x, obj.y), xytext=(2,3), xycoords='data', textcoords='offset points')
-        #     annotated.append((obj.x+2,obj.y+3))
+        if not collide(obj.x, obj.y, annotated) and pt_distance((obj.x,obj.y), (0,0)) > 20:
+            #https://stackoverflow.com/questions/22052532/matplotlib-python-clickable-points
+            ax.annotate(obj.kanji, xy=(obj.x, obj.y), xytext=(2,5), xycoords='data', textcoords='offset points')
+            annotated.append((obj.x+2,obj.y+5))
 
     ax.legend(['Other','JLPT N1', 'JLPT N2', 'JLPT N3', 'JLPT N4', 'JLPT N5'])
     leg = ax.get_legend()
@@ -92,28 +90,9 @@ def plot_freq():
     leg.legendHandles[3].set_color('#ffee58')
     leg.legendHandles[4].set_color('#9ccc65')
     leg.legendHandles[5].set_color('#26a69a')
-    ax.set_title('Rank vs Euclidian Distance')
-    ax.set_xlabel('Rank')
-    ax.set_ylabel('Euclidian Distance')
-    xticks = [1377]
-    for i in range(0,1300,200):
-        xticks += [i]
-    ax.set_xticks(xticks)
-
-    yticks = [112]
-    for i in range(0,109,10):
-        yticks += [i]
-    ax.set_yticks(yticks)
-
-    if 'loglog' in sys.argv:
-        ax.loglog()
-    
-    if 'logx' in sys.argv:
-        ax.set_xscale('log')
-
-    if 'logy' in sys.argv:
-        ax.set_yscale('log')
-
+    ax.set_title('Frequency vs Word Count for Kanji')
+    ax.set_xlabel('Frequency')
+    ax.set_ylabel('Word Count')
     fig.canvas.callbacks.connect('button_press_event', on_mousepress)
 #5 25
     annot = ax.annotate("", xy=(0,0), xytext=(ANNOTATE_SHIFT_X,ANNOTATE_SHIFT_Y),textcoords="offset points",
@@ -186,10 +165,10 @@ def jlpt_color(kanji):
     return color
 
 def collide(x, y, annotated):
-    pt = (x+ANNOTATE_SHIFT_X, y+ANNOTATE_SHIFT_Y)
+    pt = (x+2, y+5)
     for an_pt in annotated:
         d = pt_distance(pt, an_pt)
-        if d < 20:
+        if d < 1.5:
             return True
     return False
 
