@@ -25,6 +25,11 @@ class KanjiVsWords {
         for await(let line of this._readIface) {
             let [num, manyougana, kundoku, hiragana] = line.split(';')
             this._currentUtaNumName = num
+            if(this._currentUtaNumName.includes('S'))
+                continue
+            if(this._currentUtaNumName == 4226) {
+                console.log('d')
+            }
             await this._processRawLine(kundoku)
             await this._processHiragana(hiragana)
             ++this._currentUtaNum

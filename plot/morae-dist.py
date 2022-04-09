@@ -4,11 +4,6 @@ import math
 from matplotlib import pyplot as plt
 from matplotlib.backend_bases import MouseButton
 import pyperclip
-from functools import partial
-import multiprocessing
-
-
-pool = None
 
 katauta = [5,7,7]
 tanka = [5,7,5,7,7]
@@ -19,7 +14,10 @@ utas = {}
 
 ANNOTATE_SHIFT_X = 20
 ANNOTATE_SHIFT_Y = 25
-CPU_COUNT = 6
+
+compliant_count = 0
+l1_d = 0
+l2_d = 0
 
 
 def main():
@@ -27,20 +25,26 @@ def main():
     with open('../data/poem-morae.json') as f:
         utas = json.load(f)
 
-    CPU_COUNT = multiprocessing.cpu_count()
-    pool = multiprocessing.Pool(CPU_COUNT)
     plot_morae()
 
 def plot_morae():
+    global compliant_count, l1_d, l2_d
     def on_mousepress(event):
-        if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
-            for plot_obj in to_plot:
-                if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 15:
-                    if event.button is MouseButton.LEFT:
-                        pyperclip.copy(plot_obj.y)
-                    elif event.button is MouseButton.RIGHT:
-                        pyperclip.copy(annot_txt(plot_obj))
-                    return
+         if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
+            if event.xdata is None or event.ydata is None:
+                return
+            closest = to_plot[0]
+            closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+            for i in range(1, len(to_plot)):
+                d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+                if d < closest_dist:
+                    closest = to_plot[i]
+                    closest_dist = d
+            if closest_dist < 30:
+                if event.button is MouseButton.LEFT:
+                    pyperclip.copy(closest.dist)
+                elif event.button is MouseButton.RIGHT:
+                    pyperclip.copy(annot_txt(closest))
 
 
     to_plot = []
@@ -52,7 +56,14 @@ def plot_morae():
         v = utas_l[i][1] 
         d = determine_poem(v['morae'])
         if d != 'indeterminate':
-            to_plot.append(freq_obj(i+1, d, dist_from_type(v['morae'], d), v['morae'], k))
+            dist = dist_from_type(v['morae'], d)
+            to_plot.append(freq_obj(i+1, d, dist, v['morae'], utas_l[i][1]['name']))
+            if dist == 0:
+                compliant_count += 1
+            elif dist == 1:
+                l1_d += 1
+            elif dist == 2:
+                l2_d += 1
     
     plt.rcParams['font.family'] = 'Meiryo'
     fig, ax = plt.subplots()
@@ -63,6 +74,7 @@ def plot_morae():
     ax.set_title('Compliance of forms')
     ax.set_xlabel('Uta Number')
     ax.set_ylabel('L1 distance')
+    ax.set_xticks([0,500,1000,1500,2000,2500,3000,3500,4000,4500])
     #cursor = mplcursors.cursor(hover=True)
     #cursor.connect('add', on_hover)
     
@@ -90,38 +102,23 @@ def plot_morae():
 
     def on_hover(event):
         if event.xdata is None or event.ydata is None:
-            return 
-        event_pt = (event.xdata, event.ydata)
-        l = len(to_plot)
-        d = math.ceil(l/CPU_COUNT)
-        mapped = []
-        for i in range(CPU_COUNT):
-            if (i+1)*d > l:
-                mapped.append(to_plot[i*d:])    
-            else:
-                mapped.append(to_plot[i*d:(i+1)*d])
-            
-        g = partial(find_closest, event_pt=event_pt)
-        dists =pool.map(g, mapped)
-        sm_dist = dists[0]
-        #print(sm_dist[0])
-        for i in range(1,len(dists)):
-            if dists[i][0] < sm_dist[0]:
-                sm_dist = dists[i]
-
-        if sm_dist[0] < 15:
-            update_annot(sm_dist[1])
-            annot.set_visible(True)
+            annot.set_visible(False)
             fig.canvas.draw_idle()
             return
-        # for plot_obj in to_plot:
-        #     if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 3:
-        #         update_annot(plot_obj)
-        #         annot.set_visible(True)
-        #         fig.canvas.draw_idle()
-        #         return
-        annot.set_visible(False)
-        fig.canvas.draw_idle()
+        closest = to_plot[0]
+        closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+        for i in range(1, len(to_plot)):
+            d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+            if d < closest_dist:
+                closest = to_plot[i]
+                closest_dist = d
+        if closest_dist < 30:
+            update_annot(closest)
+            annot.set_visible(True)
+            fig.canvas.draw_idle()
+        else:
+            annot.set_visible(False)
+            fig.canvas.draw_idle()
 
     fig.canvas.mpl_connect("motion_notify_event", on_hover)
     plt.show()

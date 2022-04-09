@@ -24,20 +24,20 @@ def plot_types():
         i = sel.annotation._text.index('=')
         j = sel.annotation._text.index('\n')
         type = sel.annotation._text[i+1:j]
-        txt = ''
+        txt = f'y={int(sel.target[1])}\n'
         if type == 'katauta':
-            txt = cust_join(types_name['katauta'], 20)
+            txt += cust_join(types_name['katauta'], 20)
         elif type == 'tanka':
-            txt = cust_join(types_name['tanka'], 20)
+            txt += cust_join(types_name['tanka'], 20)
         elif type == 'sedouka':
-            txt = cust_join(types_name['sedouka'], 20)
+            txt += cust_join(types_name['sedouka'], 20)
         elif type == 'chouka':
-            txt = cust_join(types_name['chouka'], 20)
+            txt += cust_join(types_name['chouka'], 20)
         elif type == 'bussokusekika':
-            txt = cust_join(types_name['bussokusekika'], 20)
+            txt += cust_join(types_name['bussokusekika'], 20)
         elif type == 'indeterminate':
-            txt = cust_join(types_name['indeterminate'], 20)
-        sel.annotation.set_text(txt)
+            txt += cust_join(types_name['indeterminate'], 20)
+        sel.annotation.set(text=txt, ma='left')
 
 
     utas_l = list(utas.items())
@@ -61,7 +61,7 @@ def plot_types():
         v = utas_l[i][1]
         d = determine_poem(v['morae'])
         types_dist[d] += 1
-        types_name[d].append(k)
+        types_name[d].append(utas_l[i][1]['name'])
     
     plt.rcParams['font.family'] = 'Meiryo'
     fig, ax = plt.subplots()
@@ -71,6 +71,7 @@ def plot_types():
     lines = ax.bar(types, values, width=0.3)
 
     ax.set_title('Uta Types')
+    ax.set_ylabel('#Uta')
     cursor = mplcursors.cursor(hover=True)
     cursor.connect('add', on_hover)
     plt.show()

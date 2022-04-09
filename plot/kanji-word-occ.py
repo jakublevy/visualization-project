@@ -12,6 +12,8 @@ occ = []
 f_kanji = None
 f_word = None
 
+num_2_uta = {}
+
 def main():
     ap = ArgumentParser()
     add_args(ap)
@@ -41,6 +43,7 @@ def build_index():
     global index
     for p_num in kanji:
         index.append(p_num)
+        num_2_uta[p_num] = kanji[p_num]['name']
 
 
 def plot(kanji, findtxt):
@@ -65,7 +68,7 @@ def plot_kanji(find_kanji):
     ax.set_title(f'Kanji {find_kanji}')
     ax.set_xlabel('Uta Number')
     ax.set_ylabel('Occurrences')
-    ax.set_xticks([0,500,1000,1499,1999, 2500, 2999+13, 3499+35,3999+45, 4500+44])
+    ax.set_xticks([0,499,999,1499,1999,2499,2999,3499,3999,4499])
     ax.set_yticks(list(range(0,max(occ)+1, 1)))
     c = mplcursors.cursor(lines, hover=True)
     c.connect('add', kanji_formatter)
@@ -85,10 +88,11 @@ def kanji_formatter(v):
         for ke in kk:
             vv.append(f'{ke} {words[str(k)][f_kanji][ke]}')
         w = '\n'.join(vv)
+    c = num_2_uta[k]
     if w == '':
-        v.annotation.set(text=f'詩 {k}\n# {occ}', ma='left', fontsize=16)
+        v.annotation.set(text=f'詩 {c}\n# {occ}', ma='left', fontsize=16)
     else:
-        v.annotation.set(text=f'詩 {k}\n# {occ}\n{w}', ma='left', fontsize=16)
+        v.annotation.set(text=f'詩 {c}\n# {occ}\n{w}', ma='left', fontsize=16)
 
 
 def word_formatter(v):

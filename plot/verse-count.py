@@ -3,8 +3,6 @@ from matplotlib import pyplot as plt
 from matplotlib.backend_bases import MouseButton
 import pyperclip
 import math
-import multiprocessing
-from functools import partial
 
 
 utas = {}
@@ -17,30 +15,39 @@ bussokusekika = [5,7,5,7,7,7]
 
 ANNOTATE_SHIFT_X = 20
 ANNOTATE_SHIFT_Y = 25
-CPU_COUNT = 6
+
+chouka_3221_3346 = 0
+# CPU_COUNT = 6
 
 def main():
-    global utas, pool, CPU_COUNT
+    global utas, pool #, CPU_COUNT
     with open('../data/poem-morae.json') as f:
         utas = json.load(f)
 
-    CPU_COUNT = multiprocessing.cpu_count()
-    pool = multiprocessing.Pool(CPU_COUNT)
+    # CPU_COUNT = multiprocessing.cpu_count()
+    # pool = multiprocessing.Pool(CPU_COUNT)
     plot_freq()
 
 def plot_freq():
+    global chouka_3221_3346
     def on_mousepress(event):
-        if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
-            for plot_obj in to_plot:
-                if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 15:
-                    if event.button is MouseButton.LEFT:
-                        pyperclip.copy(plot_obj.y)
-                    elif event.button is MouseButton.RIGHT:
-                        pyperclip.copy(annot_txt(plot_obj))
-                    return
+         if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
+            if event.xdata is None or event.ydata is None:
+                return
+            closest = to_plot[0]
+            closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+            for i in range(1, len(to_plot)):
+                d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+                if d < closest_dist:
+                    closest = to_plot[i]
+                    closest_dist = d
+            if closest_dist < 30:
+                if event.button is MouseButton.LEFT:
+                    pyperclip.copy(closest.y)
+                elif event.button is MouseButton.RIGHT:
+                    pyperclip.copy(annot_txt(closest))
 
     plt.rcParams['font.family'] = 'Meiryo'
-    annotated = []
     fig, ax = plt.subplots()
     to_plot = []
     utas_l = list(utas.items())
@@ -48,13 +55,16 @@ def plot_freq():
         k = utas_l[i][0]
         v = utas_l[i][1]
         t = determine_poem(v['morae'])
-        to_plot.append(freq_obj(i+1, v['poemCount'], k, v['morae'], t))
+        to_plot.append(freq_obj(i, v['poemCount'], utas_l[i][1]['name'], v['morae'], t))
+        if t == 'chouka' and (',' in utas_l[i][1]['name'] or (int(utas_l[i][1]['name']) >= 3221 and int(utas_l[i][1]['name']) <= 3346)):
+            chouka_3221_3346 += 1
     for obj in to_plot:
         ax.plot(obj.x, obj.y, 'o',picker=5)
 
-    ax.set_title('歌と節の数')
+    ax.set_title('歌と節数')
     ax.set_xlabel('Uta Number')
     ax.set_ylabel('Number of Verse')
+    ax.set_xticks([0,500,1000,1500,2000,2500,3000,3500,4000,4500])
     fig.canvas.callbacks.connect('button_press_event', on_mousepress)
 #5 25
     annot = ax.annotate("", xy=(0,0), xytext=(ANNOTATE_SHIFT_X,ANNOTATE_SHIFT_Y),textcoords="offset points",
@@ -78,41 +88,58 @@ def plot_freq():
 
     def on_hover(event):
         if event.xdata is None or event.ydata is None:
-            return 
-        event_pt = (event.xdata, event.ydata)
-        l = len(to_plot)
-        d = math.ceil(l/CPU_COUNT)
-        mapped = []
-        for i in range(CPU_COUNT):
-            if (i+1)*d > l:
-                mapped.append(to_plot[i*d:])    
-            else:
-                mapped.append(to_plot[i*d:(i+1)*d])
-            
-        g = partial(find_closest, event_pt=event_pt)
-        dists =pool.map(g, mapped)
-        sm_dist = dists[0]
-        #print(sm_dist[0])
-        for i in range(1,len(dists)):
-            if dists[i][0] < sm_dist[0]:
-                sm_dist = dists[i]
-
-        if sm_dist[0] < 15:
-            update_annot(sm_dist[1])
-            annot.set_visible(True)
+            annot.set_visible(False)
             fig.canvas.draw_idle()
             return
-        # for plot_obj in to_plot:
-        #     if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 3:
-        #         update_annot(plot_obj)
-        #         annot.set_visible(True)
-        #         fig.canvas.draw_idle()
-        #         return
-        annot.set_visible(False)
-        fig.canvas.draw_idle()
+        closest = to_plot[0]
+        closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+        for i in range(1, len(to_plot)):
+            d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+            if d < closest_dist:
+                closest = to_plot[i]
+                closest_dist = d
+        if closest_dist < 30:
+            update_annot(closest)
+            annot.set_visible(True)
+            fig.canvas.draw_idle()
+        else:
+            annot.set_visible(False)
+            fig.canvas.draw_idle()
 
     fig.canvas.mpl_connect("motion_notify_event", on_hover)
     plt.show()
+
+        # if event.xdata is None or event.ydata is None:
+        #     return 
+        # event_pt = (event.xdata, event.ydata)
+        # l = len(to_plot)
+        # d = math.ceil(l/CPU_COUNT)
+        # mapped = []
+        # for i in range(CPU_COUNT):
+        #     if (i+1)*d > l:
+        #         mapped.append(to_plot[i*d:])    
+        #     else:
+        #         mapped.append(to_plot[i*d:(i+1)*d])
+            
+        # g = partial(find_closest, event_pt=event_pt)
+        # dists =pool.map(g, mapped)
+        # sm_dist = dists[0]
+        # #print(sm_dist[0])
+        # for i in range(1,len(dists)):
+        #     if dists[i][0] < sm_dist[0]:
+        #         sm_dist = dists[i]
+
+        # if sm_dist[0] < 15:
+        #     update_annot(sm_dist[1])
+        #     annot.set_visible(True)
+        #     fig.canvas.draw_idle()
+        #     return
+
+        # annot.set_visible(False)
+        # fig.canvas.draw_idle()
+
+        # fig.canvas.mpl_connect("motion_notify_event", on_hover)
+        # plt.show()
 
 def find_closest(plot_objs, event_pt):
         min_dist = pt_distance(plot_objs[0].pt(), event_pt)

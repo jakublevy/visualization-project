@@ -62,13 +62,20 @@ class freq_obj:
 def plot_freq():
     def on_mousepress(event):
         if event.button in [MouseButton.LEFT, MouseButton.RIGHT]:
-            for plot_obj in to_plot:
-                if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 3:
-                    if event.button is MouseButton.LEFT:
-                        pyperclip.copy(plot_obj.kanji)
-                    elif event.button is MouseButton.RIGHT:
-                        pyperclip.copy(annot_txt(plot_obj))
-                    return
+            if event.xdata is None or event.ydata is None:
+                return
+            closest = to_plot[0]
+            closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+            for i in range(1, len(to_plot)):
+                d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+                if d < closest_dist:
+                    closest = to_plot[i]
+                    closest_dist = d
+            if closest_dist < 30:
+                if event.button is MouseButton.LEFT:
+                    pyperclip.copy(closest.kanji)
+                elif event.button is MouseButton.RIGHT:
+                    pyperclip.copy(annot_txt(closest))
 
     plt.rcParams['font.family'] = 'Meiryo'
     annotated = []
@@ -79,6 +86,7 @@ def plot_freq():
         to_plot.append(freq_obj(i+1, pt_distance((kanji_freq(kanji_list[i]), kanji_word_freq(kanji_list[i])), (0,0)), kanji_list[i]))
     for obj in to_plot:
         ax.plot(obj.x, obj.y, 'o',picker=5, color=jlpt_color(obj.kanji))
+        #ax.plot(obj.x, kanji_info[obj.kanji]['freq'] * obj.x, 'o',picker=5, color=jlpt_color(obj.kanji))
         # if not collide(obj.x, obj.y, annotated) and pt_distance((obj.x,obj.y), (0,0)) > 20:
         #     #https://stackoverflow.com/questions/22052532/matplotlib-python-clickable-points
         #     ax.annotate(obj.kanji, xy=(obj.x, obj.y), xytext=(2,3), xycoords='data', textcoords='offset points')
@@ -146,9 +154,9 @@ def plot_freq():
 
         strokes = kanji_info[plot_obj.kanji]['strokes']
         if top != -1:
-            txt = f'{plot_obj.kanji} {top}{suffix}【{strokes}画】\n#O: {kanji[plot_obj.kanji]}\n#W: {words_occ[plot_obj.kanji]}'
+            txt = f'{plot_obj.kanji} {top}{suffix}【{strokes}画】\n#O: {kanji[plot_obj.kanji]}\n#W: {words_occ[plot_obj.kanji]}\nR: {plot_obj.x}\nDist: {str(round(plot_obj.y, 2))}'
         else:
-            txt = f'{plot_obj.kanji}【{strokes}画】\n#O: {kanji[plot_obj.kanji]}\n#W: {words_occ[plot_obj.kanji]}'
+            txt = f'{plot_obj.kanji}【{strokes}画】\n#O: {kanji[plot_obj.kanji]}\n#W: {words_occ[plot_obj.kanji]}\nR: {plot_obj.x}\nDist: {str(round(plot_obj.y,2))}'
 
         words = wordsForKanji[plot_obj.kanji]
         max = min(3, len(words))
@@ -159,14 +167,32 @@ def plot_freq():
         return txt
 
     def on_hover(event):
-        for plot_obj in to_plot:
-            if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 1:
-                update_annot(plot_obj)
-                annot.set_visible(True)
-                fig.canvas.draw_idle()
-                return
-        annot.set_visible(False)
-        fig.canvas.draw_idle()
+        if event.xdata is None or event.ydata is None:
+            annot.set_visible(False)
+            fig.canvas.draw_idle()
+            return
+        closest = to_plot[0]
+        closest_dist = pt_distance(to_plot[0].pt(), (event.xdata, event.ydata))
+        for i in range(1, len(to_plot)):
+            d = pt_distance((event.xdata, event.ydata), to_plot[i].pt()) 
+            if d < closest_dist:
+                closest = to_plot[i]
+                closest_dist = d
+        if closest_dist < 30:
+            update_annot(closest)
+            annot.set_visible(True)
+            fig.canvas.draw_idle()
+        else:
+            annot.set_visible(False)
+            fig.canvas.draw_idle()
+        # for plot_obj in to_plot:
+        #     if event.xdata and event.ydata and pt_distance(plot_obj.pt(), (event.xdata,event.ydata)) < 20:
+        #         update_annot(plot_obj)
+        #         annot.set_visible(True)
+        #         fig.canvas.draw_idle()
+        #         return
+        # annot.set_visible(False)
+        # fig.canvas.draw_idle()
 
     fig.canvas.mpl_connect("motion_notify_event", on_hover)
     plt.show()
