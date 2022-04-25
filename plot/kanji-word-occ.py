@@ -90,9 +90,9 @@ def kanji_formatter(v):
         w = '\n'.join(vv)
     c = num_2_uta[k]
     if w == '':
-        v.annotation.set(text=f'詩 {c}\n# {occ}', ma='left', fontsize=16)
+        v.annotation.set(text=f'歌 {c}\n# {occ}', ma='left', fontsize=16)
     else:
-        v.annotation.set(text=f'詩 {c}\n# {occ}\n{w}', ma='left', fontsize=16)
+        v.annotation.set(text=f'歌 {c}\n# {occ}\n{w}', ma='left', fontsize=16)
 
 
 def word_formatter(v):
@@ -106,7 +106,7 @@ def word_formatter(v):
             li = item
     if li is not None:
         occ = li[f_word]
-    v.annotation.set(text=f'詩 {k}\n# {occ}', ma='left', fontsize=16)
+    v.annotation.set(text=f'歌 {k}\n# {occ}', ma='left', fontsize=16)
 
 
 def plot_words(findtxt):
